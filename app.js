@@ -172,11 +172,10 @@ function computeFilterOptions() {
   state.allGrades = grades;
   state.allSubjects = [...subjects].sort();
   state.allCurricula = [...curricula].sort();
-  // Default to Grade 3 alone (matching this portal's original single-grade
-  // view) rather than every grade at once, which would overlay every
-  // grade's units on the Timeline simultaneously. The Grade Level filter
-  // lets anyone switch to another grade, or add more.
-  state.filters.grades = new Set(grades.includes("3rd") ? ["3rd"] : grades.slice(0, 1));
+  // Default to no grade selected; the user picks a grade from the Grade
+  // Level filter. Starting empty avoids overlaying a grade's units on the
+  // Timeline before the user has made a choice.
+  state.filters.grades = new Set();
   state.filters.subjects = new Set(state.allSubjects);
   state.filters.curricula = new Set(state.allCurricula);
 
