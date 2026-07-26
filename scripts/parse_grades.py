@@ -320,9 +320,19 @@ def fix_bare_section_topic_slot(kind, d):
 
 
 def applicable_grades(grade_level_value):
+    """Grade Level (column B) is normally comma-separated text tokens
+    ("3", "3, 4, 5"). A subset of rows - notably the "3/4/5: Assessment"
+    rows - store it as a *number* instead, so the cell arrives as 3.0 and
+    str() renders "3.0", which never matched the plain "3" token and
+    silently dropped those rows. Strip a trailing ".0" off each token so a
+    numeric grade cell lines up with GRADE_TOKENS."""
     if grade_level_value is None:
         return []
-    tokens = {t.strip() for t in str(grade_level_value).split(",")}
+    tokens = set()
+    for t in str(grade_level_value).split(","):
+        t = t.strip()
+        t = re.sub(r"\.0$", "", t)
+        tokens.add(t)
     return [g for g in GRADE_TOKENS if g in tokens]
 
 
@@ -374,6 +384,19 @@ def main():
 
     for r in range(2, ws.max_row + 1):
         label = ws.cell(row=r, column=1).value
+        # Grade 2's ELA (CKLA) rows were entered without the column-A
+        # combined "<Grade>: <Subject> Lesson/Section" label - that
+        # designation sits in the subject_area column (C, e.g. "ELA Lesson"
+        # / "ELA Section") with the grade in column B. Rebuild the column-A
+        # style label from B + C so classify_label recognizes them instead
+        # of dropping all 185 rows.
+        if not (label and str(label).strip()):
+            c_val = ws.cell(row=r, column=3).value
+            b_val = ws.cell(row=r, column=2).value
+            if c_val and b_val is not None and str(c_val).strip().split()[-1:] and \
+               str(c_val).strip().split()[-1] in ("Lesson", "Lessons", "Section"):
+                b_txt = re.sub(r"\.0$", "", str(b_val).strip())
+                label = f"{b_txt}: {str(c_val).strip()}"
         # Peek lesson_number (column 8, or 7 if this row is column-shifted -
         # see detect_column_shift) before building the full dict, since
         # classify_label needs it to disambiguate bare "N: Subject" labels.
