@@ -258,6 +258,22 @@ footer { text-align: center; font-size: 11px; color: var(--ink-soft); padding: 2
 }
 .curriculum-card .curriculum-link:hover { background: var(--purple-deep); }
 
+.curriculum-card .curriculum-logins {
+  margin-top: 4px; padding: 10px 12px; border-radius: 10px;
+  background: var(--paper); border: 1px solid var(--line);
+  display: flex; flex-direction: column; gap: 5px;
+}
+.curriculum-card .cred-note { font-size: 12px; color: var(--ink-soft); margin-bottom: 2px; }
+.curriculum-card .cred-row { display: flex; align-items: baseline; gap: 8px; font-size: 12.5px; }
+.curriculum-card .cred-label {
+  flex: 0 0 62px; font-weight: 700; color: var(--ink-soft);
+  text-transform: uppercase; letter-spacing: .02em; font-size: 10.5px;
+}
+.curriculum-card .cred-row code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 12px; word-break: break-all;
+}
+
 .agenda-list { display: flex; flex-direction: column; gap: 8px; }
 .agenda-item {
   background: var(--card); border: 1px solid var(--line); border-left: 5px solid var(--purple);

@@ -256,7 +256,10 @@ function buildMultiSelect(containerId, label, options, selectedSet) {
 // would have expired or broken almost immediately. These are the durable
 // destinations instead.
 const CURRICULUM_SITES = [
-  { name: "Amplify (CKLA)", subjects: "ELA", url: "https://learning.amplify.com/", note: "Amplify CKLA teacher home." },
+  { name: "Amplify (CKLA)", subjects: "ELA", url: "https://learning.amplify.com/", note: "Amplify CKLA teacher home. Select \"Log in with Amplify\".",
+    logins: { method: "At learning.amplify.com, select \"Log in with Amplify\".", teacher: "t1.ckla26voices@demo.tryamplify.net", student: "s1.ckla26voices@demo.tryamplify.net", password: "Amplify1-ckla26voices", expires: "November 17, 2026" } },
+  { name: "Amplify (Caminos)", subjects: "Spanish ELA", url: "https://learning.amplify.com/", note: "Amplify Caminos teacher home. Select \"Log in with Amplify\".",
+    logins: { method: "At learning.amplify.com, select \"Log in with Amplify\".", teacher: "t1.caminos26voices@demo.tryamplify.net", student: "s1.caminos26voices@demo.tryamplify.net", password: "Amplify1-caminos26voices", expires: "November 17, 2026" } },
   { name: "Great Minds (Eureka Math)", subjects: "Math", url: "https://digital.greatminds.org/teacher", note: "Eureka Math / Eureka Math Squared teacher portal." },
   { name: "Frog Street", subjects: "TK / KN", url: "https://lilypad2.frogstreet.com/", note: "Frog Street teacher login." },
   { name: "Savvas (enVision)", subjects: "Math", url: "https://authentication-webapp.rumba.pk12ls.com/sso/login", note: "Savvas EasyBridge / enVision SSO sign-in." },
@@ -271,6 +274,13 @@ function buildCurriculumSites() {
       <h3>${escapeHtml(site.name)}</h3>
       <div class="curriculum-subjects">${escapeHtml(site.subjects)}</div>
       <div style="font-size:12.5px;color:var(--ink-soft)">${escapeHtml(site.note)}</div>
+      ${site.logins ? `<div class="curriculum-logins">
+        <div class="cred-note">${escapeHtml(site.logins.method)}</div>
+        <div class="cred-row"><span class="cred-label">Teacher</span><code>${escapeHtml(site.logins.teacher)}</code></div>
+        <div class="cred-row"><span class="cred-label">Student</span><code>${escapeHtml(site.logins.student)}</code></div>
+        <div class="cred-row"><span class="cred-label">Password</span><code>${escapeHtml(site.logins.password)}</code></div>
+        <div class="cred-row"><span class="cred-label">Expires</span><span>${escapeHtml(site.logins.expires)}</span></div>
+      </div>` : ""}
       <a class="curriculum-link" href="${escapeHtml(site.url)}" target="_blank" rel="noopener">Open ↗</a>
     </div>`).join("");
 }
