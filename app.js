@@ -263,7 +263,13 @@ const CURRICULUM_SITES = [
   { name: "Great Minds (Eureka Math)", subjects: "Math", url: "https://digital.greatminds.org/teacher", note: "Eureka Math / Eureka Math Squared teacher portal." },
   { name: "Frog Street", subjects: "TK / KN", url: "https://lilypad2.frogstreet.com/", note: "Frog Street teacher login." },
   { name: "Savvas (enVision)", subjects: "Math", url: "https://authentication-webapp.rumba.pk12ls.com/sso/login", note: "Savvas EasyBridge / enVision SSO sign-in." },
-  { name: "Studies Weekly", subjects: "Social Studies", url: "https://online.studiesweekly.com/teacher/classrooms/87e96d54-bfcc-4bda-83d5-a413422fb235", note: "Your Studies Weekly classroom." },
+  { name: "Studies Weekly", subjects: "Social Studies", url: "https://online.studiesweekly.com/teacher/classrooms/87e96d54-bfcc-4bda-83d5-a413422fb235", note: "Your Studies Weekly classroom.",
+    resources: [
+      { label: "Start Up Kit (PDF)", url: "https://cdn.studiesweekly.com/marketing/Documents/Getting+Started/DIG+2026+Start+Up+Kit.pdf" },
+      { label: "Online Onboarding Guide (PDF)", url: "https://cdn.studiesweekly.com/personal_development/category/Online%20Onboarding%20Guide.pdf" },
+      { label: "Video: Getting Started with Social Studies", url: "https://cdn.studiesweekly.com/personal_development/category/Learning%20Lab%20-%20Getting%20Starte%20with%20Studies%20Weekly%20Social%20Studies.mp4" },
+      { label: "Video: Getting Started with Studies Weekly Online", url: "https://cdn.studiesweekly.com/personal_development/category/Learning%20Lab%20-%20Getting%20Started%20with%20Studies%20Weekly%20Online.mp4" },
+    ] },
 ];
 
 function buildCurriculumSites() {
@@ -280,6 +286,10 @@ function buildCurriculumSites() {
         <div class="cred-row"><span class="cred-label">Student</span><code>${escapeHtml(site.logins.student)}</code></div>
         <div class="cred-row"><span class="cred-label">Password</span><code>${escapeHtml(site.logins.password)}</code></div>
         <div class="cred-row"><span class="cred-label">Expires</span><span>${escapeHtml(site.logins.expires)}</span></div>
+      </div>` : ""}
+      ${site.resources ? `<div class="curriculum-resources">
+        <div class="cred-note">Getting started</div>
+        ${site.resources.map((r) => `<a class="resource-link" href="${escapeHtml(r.url)}" target="_blank" rel="noopener">${escapeHtml(r.label)} ↗</a>`).join("")}
       </div>` : ""}
       <a class="curriculum-link" href="${escapeHtml(site.url)}" target="_blank" rel="noopener">Open ↗</a>
     </div>`).join("");
