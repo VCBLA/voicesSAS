@@ -370,70 +370,6 @@ def reconstruct_missing_section_numbers(grade_data):
             d["section_number"] = current.get(key)
 
 
-def supplement_social_studies_from_grade_tabs(wb, by_grade):
-    """The "All" tab (this parser's source of truth) is missing Social
-    Studies for some grades - notably Grade 4, whose Social Studies rows
-    were only ever entered in that grade's own per-grade tab, never copied
-    into "All". Where a grade has NO Social Studies at all in "All", pull
-    its Social Studies rows straight from that grade's tab instead (the
-    per-grade tabs use the identical column schema), so the portal isn't
-    silently missing an entire subject.
-
-    Deliberately narrow to close a known gap without reopening the
-    All-vs-per-grade drift problem the rest of this script avoids:
-      - Only Social Studies is considered (the one subject observed to live
-        per-grade-only for some grades).
-      - Only grades that have zero Social Studies in "All" are touched, so
-        grades whose SS *is* in "All" (e.g. 3rd, 6th) are never duplicated
-        or overridden.
-    Runs after "All" is fully parsed and before section-number
-    reconstruction, so any pulled-in rows get the same treatment.
-    """
-    SUBJ = "Social Studies"
-    for token, gkey in GRADE_KEY.items():
-        bucket = by_grade[gkey]
-        if SUBJ in bucket["sections_by_subject"] or SUBJ in bucket["lessons_by_subject"]:
-            continue  # "All" already provides SS for this grade - leave it
-        if gkey not in wb.sheetnames:
-            continue
-        ws = wb[gkey]
-        added_s = added_l = 0
-        for r in range(2, ws.max_row + 1):
-            label = ws.cell(row=r, column=1).value
-            if not (label and str(label).strip()):
-                c_val = ws.cell(row=r, column=3).value
-                b_val = ws.cell(row=r, column=2).value
-                if c_val and b_val is not None and \
-                   str(c_val).strip().split()[-1:] and \
-                   str(c_val).strip().split()[-1] in ("Lesson", "Lessons", "Section"):
-                    b_txt = re.sub(r"\.0$", "", str(b_val).strip())
-                    label = f"{b_txt}: {str(c_val).strip()}"
-            shift = detect_column_shift(ws, r)
-            lesson_number = ws.cell(row=r, column=8 - shift).value
-            if not looks_like_lesson_number(lesson_number):
-                lesson_number = None
-            kind, subject = classify_label(label, lesson_number)
-            if subject != SUBJ or kind not in ("Section", "Lessons"):
-                continue
-            d = row_dict(ws, r)
-            kind = fix_mislabeled_section_header(kind, d)
-            d = fix_compact_curriculum_slot(kind, d)
-            d = fix_compact_topic_dates_standards(kind, d, ws, r)
-            d = fix_bare_section_topic_slot(kind, d)
-            if token not in applicable_grades(d.get("grade_level")):
-                continue
-            row_copy = dict(d)
-            if kind == "Section":
-                bucket["sections_by_subject"].setdefault(subject, []).append(row_copy)
-                added_s += 1
-            else:
-                bucket["lessons_by_subject"].setdefault(subject, []).append(row_copy)
-                added_l += 1
-        if added_s or added_l:
-            print(f"  [SS fallback] {gkey}: pulled {added_l} lessons + "
-                  f"{added_s} sections from the '{gkey}' tab")
-
-
 def main():
     if len(sys.argv) != 3:
         sys.exit(__doc__)
@@ -497,8 +433,6 @@ def main():
                 bucket["sections_by_subject"].setdefault(subject, []).append(row_copy)
             elif kind == "Lessons":
                 bucket["lessons_by_subject"].setdefault(subject, []).append(row_copy)
-
-    supplement_social_studies_from_grade_tabs(wb, by_grade)
 
     for grade_data in by_grade.values():
         reconstruct_missing_section_numbers(grade_data)
