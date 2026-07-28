@@ -40,7 +40,7 @@ const MS_PER_DAY = 24 * 60 * 60 * 1000;
 // footer (with time) so anyone viewing the portal knows how fresh the
 // snapshot is. Format: "YYYY-MM-DDTHH:MM" in whatever local time zone
 // you're in when you regenerate it (California/Pacific for this network).
-const LAST_UPDATED = "2026-07-28T06:54";
+const LAST_UPDATED = "2026-07-28T11:50";
 
 // Language of instruction color coding (light purple / light green), used
 // everywhere: Overview headers, Calendar chips, This Week subject headers,
