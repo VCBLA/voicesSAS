@@ -370,6 +370,88 @@ def reconstruct_missing_section_numbers(grade_data):
             d["section_number"] = current.get(key)
 
 
+# ---------- TK tab (PTLKF foundations) ----------
+# TK's scope & sequence lives in its own "TK" tab, not "All": its PTLKF
+# developmental-foundations framework doesn't fit the lesson/section schema
+# the rest of the workbook uses, so it is read and mapped separately here.
+TK_SHEET = "TK"
+TK_DOMAIN_COL = 2      # PTLKF Domain            -> subject
+TK_STRAND_COL = 3      # Strand/Substrand        -> topic
+TK_TRIMESTER_COLS = [(4, "First Trimester"), (5, "Second Trimester"), (6, "Third Trimester")]
+TK_WEEK_COL = 8
+TK_DATE_COL = 9        # DAY | DATE              -> start/end date (single day)
+TK_FROGSTREET_COL = 11 # Frog Street Unit        -> curriculum
+
+
+def parse_tk_tab(wb, by_grade):
+    """Map the 'TK' tab onto the portal's lesson/section structure so TK
+    renders like the other grades:
+        PTLKF Domain (col B)      -> subject
+        Strand/Substrand (col C)  -> topic
+        filled trimester cell     -> lesson_objective (trimester kept as a label)
+        DAY | DATE (col I)        -> start/end date (single day)
+        Frog Street Unit (col K)  -> curriculum
+    Each strand row becomes one lesson; lessons are grouped into one section
+    per (domain, trimester) so the section navigator / weekly views have
+    units to hang them on. Runs after the 'All' parse and after section-
+    number reconstruction (TK section numbers are assigned here, so
+    reconstruct must not touch them). TK's shared Values Block, assessments
+    and key dates continue to come from 'All' and are left untouched."""
+    if TK_SHEET not in wb.sheetnames:
+        return
+    ws = wb[TK_SHEET]
+    bucket = by_grade["TK"]
+    groups = OrderedDict()  # domain -> [lesson dicts], in sheet order
+    for r in range(2, ws.max_row + 1):
+        domain = cell_to_value(ws.cell(row=r, column=TK_DOMAIN_COL).value)
+        strand = cell_to_value(ws.cell(row=r, column=TK_STRAND_COL).value)
+        if not domain and not strand:
+            continue
+        objective, trimester = None, None
+        for col, label in TK_TRIMESTER_COLS:
+            v = cell_to_value(ws.cell(row=r, column=col).value)
+            if v:
+                objective, trimester = v, label
+                break
+        date_iso = cell_to_value(ws.cell(row=r, column=TK_DATE_COL).value)
+        if date_iso and "T" not in date_iso:
+            date_iso = parse_date_to_iso(date_iso) or date_iso
+        lesson = {
+            "_row": r,
+            "combined_grade_subject": f"TK: {domain}" if domain else None,
+            "grade_level": "TK",
+            "subject_area": domain,
+            "curriculum": cell_to_value(ws.cell(row=r, column=TK_FROGSTREET_COL).value),
+            "section_number": "1",
+            "topic": strand,
+            "lesson_number": None,
+            "lesson_objective": objective,
+            "start_date": date_iso,
+            "end_date": date_iso,
+            "trimester": trimester,   # label only - sheet's trimester cols don't always align with the date
+            "week": cell_to_value(ws.cell(row=r, column=TK_WEEK_COL).value),
+        }
+        groups.setdefault(domain, []).append(lesson)
+
+    # One section per PTLKF domain, spanning that domain's date range.
+    synth_row = 900000
+    for domain, lessons in groups.items():
+        dts = sorted(l["start_date"] for l in lessons if l["start_date"])
+        bucket["sections_by_subject"].setdefault(domain, []).append({
+            "_row": synth_row,
+            "combined_grade_subject": f"TK: {domain}",
+            "grade_level": "TK",
+            "subject_area": domain,
+            "curriculum": None,
+            "section_number": "1",
+            "topic": domain,
+            "start_date": dts[0] if dts else None,
+            "end_date": dts[-1] if dts else None,
+        })
+        synth_row += 1
+        bucket["lessons_by_subject"].setdefault(domain, []).extend(lessons)
+
+
 def main():
     if len(sys.argv) != 3:
         sys.exit(__doc__)
@@ -436,6 +518,8 @@ def main():
 
     for grade_data in by_grade.values():
         reconstruct_missing_section_numbers(grade_data)
+
+    parse_tk_tab(wb, by_grade)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(by_grade, indent=2, ensure_ascii=False))
