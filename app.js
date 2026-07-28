@@ -66,6 +66,7 @@ const $$ = (sel) => Array.from(document.querySelectorAll(sel));
 
 document.addEventListener("DOMContentLoaded", async () => {
   wireTabs();
+  wireAutoDismiss();
   state.dataByGrade = await fetch("data/all_grades.json").then((r) => r.json());
   computeFilterOptions();
   buildLegend();
@@ -95,6 +96,27 @@ function wireTabs() {
       btn.classList.add("active");
       $(`#tab-${btn.dataset.tab}`).classList.add("active");
     });
+  });
+}
+
+// The filter dropdowns (Grade Level / Subject / Curriculum) and the header
+// popovers (Key Dates / Assessments / Legend) are native <details> elements,
+// which only close when you click their own <summary> again. Users expected
+// them to dismiss on their own. This closes any open one when you click
+// outside it (and, because opening a new one is a click outside the others,
+// opening one auto-closes the rest); Escape closes them all. The DOM is
+// queried at click time, so dynamically-built filter dropdowns are covered.
+function wireAutoDismiss() {
+  const SELECTOR = "details.filter-dropdown[open], details.legend-toggle[open]";
+  document.addEventListener("click", (e) => {
+    document.querySelectorAll(SELECTOR).forEach((d) => {
+      if (!d.contains(e.target)) d.removeAttribute("open");
+    });
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      document.querySelectorAll(SELECTOR).forEach((d) => d.removeAttribute("open"));
+    }
   });
 }
 
