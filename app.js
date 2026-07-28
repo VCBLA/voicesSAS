@@ -261,6 +261,7 @@ const CURRICULUM_SITES = [
   { name: "Amplify (Caminos)", subjects: "Spanish ELA", url: "https://learning.amplify.com/", note: "Amplify Caminos teacher home. Select \"Log in with Amplify\".",
     logins: { method: "At learning.amplify.com, select \"Log in with Amplify\".", teacher: "t1.caminos26voices@demo.tryamplify.net", student: "s1.caminos26voices@demo.tryamplify.net", password: "Amplify1-caminos26voices", expires: "November 17, 2026" } },
   { name: "6-8 ELA Navigator Lessons", subjects: "ELA (Grades 6-8)", url: "https://drive.google.com/drive/folders/1x5fZa1JW6GGxkAQowDCrGWG2wFn4KmwU", note: "Navigator ELA lesson materials for grades 6-8 (Google Drive folder)." },
+  { name: "6-8 SLA Vista Galera", subjects: "SLA (Grades 6-8)", url: "https://www.vhlcentral.com/home", note: "Vista Higher Learning (Galera) Spanish Language Arts portal for grades 6-8." },
   { name: "Great Minds (Eureka Math)", subjects: "Math", url: "https://digital.greatminds.org/teacher", note: "Eureka Math / Eureka Math Squared teacher portal." },
   { name: "Frog Street", subjects: "TK / KN", url: "https://lilypad2.frogstreet.com/", note: "Frog Street teacher login." },
   { name: "Savvas (enVision)", subjects: "Math", url: "https://authentication-webapp.rumba.pk12ls.com/sso/login", note: "Savvas EasyBridge / enVision SSO sign-in." },
