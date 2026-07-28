@@ -264,7 +264,7 @@ const CURRICULUM_SITES = [
   { name: "6-8 SLA Vista Galera", subjects: "SLA (Grades 6-8)", url: "https://www.vhlcentral.com/home", note: "Vista Higher Learning (Galera) Spanish Language Arts portal for grades 6-8." },
   { name: "Great Minds (Eureka Math)", subjects: "Math", url: "https://digital.greatminds.org/teacher", note: "Eureka Math / Eureka Math Squared teacher portal." },
   { name: "Frog Street", subjects: "TK / KN", url: "https://lilypad2.frogstreet.com/", note: "Frog Street teacher login." },
-  { name: "Savvas (enVision)", subjects: "Math", url: "https://authentication-webapp.rumba.pk12ls.com/sso/login", note: "Savvas EasyBridge / enVision SSO sign-in." },
+  { name: "Savvas (enVision + Elevate)", subjects: "Math & Science", url: "https://authentication-webapp.rumba.pk12ls.com/sso/login", note: "Savvas EasyBridge SSO sign-in — enVision (Math) and Elevate Science." },
   { name: "Studies Weekly", subjects: "Social Studies", url: "https://online.studiesweekly.com/teacher/classrooms/87e96d54-bfcc-4bda-83d5-a413422fb235", note: "Your Studies Weekly classroom.",
     resources: [
       { label: "Start Up Kit (PDF)", url: "https://cdn.studiesweekly.com/marketing/Documents/Getting+Started/DIG+2026+Start+Up+Kit.pdf" },
