@@ -39870,7 +39870,7 @@
         "language_of_instruction": "English",
         "curriculum": "Eureka Math",
         "section_number": "1",
-        "topic": null,
+        "topic": "Module 1: Properties of Multiplication and Division and Solving Problems with Units of 2-5 and 10",
         "lesson_number": "A2",
         "lesson_objective": "ASSESSMENT BLOCK: Multiplication & Division FIAB",
         "language_objective": null,
@@ -49400,7 +49400,45 @@
           "assessments": null
         },
         {
-          "_row": 2130,
+          "_row": 2122,
+          "combined_grade_subject": "5: Math",
+          "grade_level": "5",
+          "subject_area": "Math",
+          "language_of_instruction": "English",
+          "curriculum": "Eureka Math",
+          "section_number": "1",
+          "topic": "Module 1: Place Value and Decimal Fractions",
+          "lesson_number": null,
+          "lesson_objective": "ASSESSMENT BLOCK: Place Value & Decimals FIAB",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-10T00:00:00",
+          "end_date": "2026-09-10T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2126,
+          "combined_grade_subject": "5: Math",
+          "grade_level": "5",
+          "subject_area": "Math",
+          "language_of_instruction": "English",
+          "curriculum": "Eureka Math",
+          "section_number": "1",
+          "topic": "Module 1: Place Value and Decimal Fractions",
+          "lesson_number": null,
+          "lesson_objective": "Module 1 End-of-Module Assessment Task",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-16T00:00:00",
+          "end_date": "2026-09-16T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2127,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49419,7 +49457,7 @@
           "assessments": null
         },
         {
-          "_row": 2131,
+          "_row": 2128,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49438,7 +49476,7 @@
           "assessments": null
         },
         {
-          "_row": 2132,
+          "_row": 2129,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49457,7 +49495,7 @@
           "assessments": null
         },
         {
-          "_row": 2133,
+          "_row": 2130,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49476,7 +49514,7 @@
           "assessments": null
         },
         {
-          "_row": 2134,
+          "_row": 2131,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49495,7 +49533,7 @@
           "assessments": null
         },
         {
-          "_row": 2135,
+          "_row": 2132,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49514,7 +49552,7 @@
           "assessments": null
         },
         {
-          "_row": 2136,
+          "_row": 2133,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49533,7 +49571,7 @@
           "assessments": null
         },
         {
-          "_row": 2137,
+          "_row": 2134,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49552,7 +49590,7 @@
           "assessments": null
         },
         {
-          "_row": 2138,
+          "_row": 2135,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49571,7 +49609,7 @@
           "assessments": null
         },
         {
-          "_row": 2139,
+          "_row": 2136,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49590,7 +49628,7 @@
           "assessments": null
         },
         {
-          "_row": 2140,
+          "_row": 2137,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49609,7 +49647,7 @@
           "assessments": null
         },
         {
-          "_row": 2141,
+          "_row": 2138,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49628,7 +49666,7 @@
           "assessments": null
         },
         {
-          "_row": 2142,
+          "_row": 2139,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49647,7 +49685,7 @@
           "assessments": null
         },
         {
-          "_row": 2143,
+          "_row": 2140,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49666,7 +49704,7 @@
           "assessments": null
         },
         {
-          "_row": 2144,
+          "_row": 2141,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49685,7 +49723,7 @@
           "assessments": null
         },
         {
-          "_row": 2145,
+          "_row": 2142,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49704,7 +49742,7 @@
           "assessments": null
         },
         {
-          "_row": 2146,
+          "_row": 2143,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
           "subject_area": "Math",
@@ -49725,7 +49763,7 @@
       ],
       "ELA": [
         {
-          "_row": 2147,
+          "_row": 2144,
           "combined_grade_subject": "5: ELA Section",
           "grade_level": "5",
           "subject_area": "ELA Section",
@@ -49744,7 +49782,7 @@
           "assessments": null
         },
         {
-          "_row": 2148,
+          "_row": 2145,
           "combined_grade_subject": "5: ELA Section",
           "grade_level": "5",
           "subject_area": "ELA Section",
@@ -49763,7 +49801,7 @@
           "assessments": null
         },
         {
-          "_row": 2149,
+          "_row": 2146,
           "combined_grade_subject": "5: ELA Section",
           "grade_level": "5",
           "subject_area": "ELA Section",
@@ -49782,7 +49820,7 @@
           "assessments": null
         },
         {
-          "_row": 2150,
+          "_row": 2147,
           "combined_grade_subject": "5: ELA Section",
           "grade_level": "5",
           "subject_area": "ELA Section",
@@ -49803,7 +49841,7 @@
       ],
       "SLA": [
         {
-          "_row": 2305,
+          "_row": 2302,
           "combined_grade_subject": "5: SLA Section",
           "grade_level": "5",
           "subject_area": "SLA Section",
@@ -49822,7 +49860,7 @@
           "assessments": null
         },
         {
-          "_row": 2306,
+          "_row": 2303,
           "combined_grade_subject": "5: SLA Section",
           "grade_level": "5",
           "subject_area": "SLA Section",
@@ -49841,7 +49879,7 @@
           "assessments": null
         },
         {
-          "_row": 2307,
+          "_row": 2304,
           "combined_grade_subject": "5: SLA Section",
           "grade_level": "5",
           "subject_area": "SLA Section",
@@ -49860,7 +49898,7 @@
           "assessments": null
         },
         {
-          "_row": 2308,
+          "_row": 2305,
           "combined_grade_subject": "5: SLA Section",
           "grade_level": "5",
           "subject_area": "SLA Section",
@@ -49879,7 +49917,7 @@
           "assessments": null
         },
         {
-          "_row": 2309,
+          "_row": 2306,
           "combined_grade_subject": "5: SLA Section",
           "grade_level": "5",
           "subject_area": "SLA Section",
@@ -50187,25 +50225,6 @@
           "assessments": null
         },
         {
-          "_row": 2122,
-          "combined_grade_subject": "5: Math",
-          "grade_level": "5",
-          "subject_area": "Math",
-          "language_of_instruction": "English",
-          "curriculum": "Eureka Math",
-          "section_number": "1",
-          "topic": "Module 1: Place Value and Decimal Fractions",
-          "lesson_number": "Review",
-          "lesson_objective": "Review Day: Place Value & Decimal Concepts",
-          "language_objective": null,
-          "resources": null,
-          "start_date": "2026-09-10T00:00:00",
-          "end_date": "2026-09-10T00:00:00",
-          "focus_mastery_standards": null,
-          "spiral_standards": null,
-          "assessments": null
-        },
-        {
           "_row": 2123,
           "combined_grade_subject": "5: Math",
           "grade_level": "5",
@@ -50215,7 +50234,7 @@
           "section_number": "1",
           "topic": "Module 1: Place Value and Decimal Fractions",
           "lesson_number": "Review",
-          "lesson_objective": "Review Day: Decimal Operations",
+          "lesson_objective": "Catch-Up / Reteach / Review Day 1 (Multiplicative Patterns & Exponents)",
           "language_objective": null,
           "resources": null,
           "start_date": "2026-09-11T00:00:00",
@@ -50234,7 +50253,7 @@
           "section_number": "1",
           "topic": "Module 1: Place Value and Decimal Fractions",
           "lesson_number": "Review",
-          "lesson_objective": "Review Day: Word Problems & Metric Conversions",
+          "lesson_objective": "Catch-Up / Reteach / Review Day 2 (Decimal Expanded/Word Form & Rounding)",
           "language_objective": null,
           "resources": null,
           "start_date": "2026-09-14T00:00:00",
@@ -50242,68 +50261,11 @@
           "focus_mastery_standards": null,
           "spiral_standards": null,
           "assessments": null
-        },
-        {
-          "_row": 2126,
-          "combined_grade_subject": "5: Math",
-          "grade_level": "5",
-          "subject_area": "Math",
-          "language_of_instruction": "English",
-          "curriculum": "Eureka Math",
-          "section_number": "1",
-          "topic": "Module 1: Place Value and Decimal Fractions",
-          "lesson_number": "Review",
-          "lesson_objective": "Catch-Up / Reteach / Review Day 1 (Multiplicative Patterns & Exponents)",
-          "language_objective": null,
-          "resources": null,
-          "start_date": "2026-09-16T00:00:00",
-          "end_date": "2026-09-16T00:00:00",
-          "focus_mastery_standards": null,
-          "spiral_standards": null,
-          "assessments": null
-        },
-        {
-          "_row": 2127,
-          "combined_grade_subject": "5: Math",
-          "grade_level": "5",
-          "subject_area": "Math",
-          "language_of_instruction": "English",
-          "curriculum": "Eureka Math",
-          "section_number": "1",
-          "topic": "Module 1: Place Value and Decimal Fractions",
-          "lesson_number": "Review",
-          "lesson_objective": "Catch-Up / Reteach / Review Day 2 (Decimal Expanded/Word Form & Rounding)",
-          "language_objective": null,
-          "resources": null,
-          "start_date": "2026-09-17T00:00:00",
-          "end_date": "2026-09-17T00:00:00",
-          "focus_mastery_standards": null,
-          "spiral_standards": null,
-          "assessments": null
-        },
-        {
-          "_row": 2128,
-          "combined_grade_subject": "5: Math",
-          "grade_level": "5",
-          "subject_area": "Math",
-          "language_of_instruction": "English",
-          "curriculum": "Eureka Math",
-          "section_number": "1",
-          "topic": "Module 1: Place Value and Decimal Fractions",
-          "lesson_number": "Review",
-          "lesson_objective": "Catch-Up / Reteach / Review Day 3 (Decimal Multiplication & Division Algorithms)",
-          "language_objective": null,
-          "resources": null,
-          "start_date": "2026-09-18T00:00:00",
-          "end_date": "2026-09-18T00:00:00",
-          "focus_mastery_standards": null,
-          "spiral_standards": null,
-          "assessments": null
         }
       ],
       "ELA": [
         {
-          "_row": 2151,
+          "_row": 2148,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50322,7 +50284,7 @@
           "assessments": null
         },
         {
-          "_row": 2152,
+          "_row": 2149,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50341,7 +50303,7 @@
           "assessments": null
         },
         {
-          "_row": 2153,
+          "_row": 2150,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50360,7 +50322,7 @@
           "assessments": null
         },
         {
-          "_row": 2154,
+          "_row": 2151,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50379,7 +50341,7 @@
           "assessments": null
         },
         {
-          "_row": 2155,
+          "_row": 2152,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50398,7 +50360,7 @@
           "assessments": null
         },
         {
-          "_row": 2156,
+          "_row": 2153,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50417,7 +50379,7 @@
           "assessments": null
         },
         {
-          "_row": 2157,
+          "_row": 2154,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50436,7 +50398,7 @@
           "assessments": null
         },
         {
-          "_row": 2158,
+          "_row": 2155,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50455,7 +50417,7 @@
           "assessments": null
         },
         {
-          "_row": 2159,
+          "_row": 2156,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50474,7 +50436,7 @@
           "assessments": null
         },
         {
-          "_row": 2160,
+          "_row": 2157,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50493,7 +50455,7 @@
           "assessments": null
         },
         {
-          "_row": 2162,
+          "_row": 2159,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50512,7 +50474,7 @@
           "assessments": null
         },
         {
-          "_row": 2163,
+          "_row": 2160,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50531,7 +50493,7 @@
           "assessments": null
         },
         {
-          "_row": 2164,
+          "_row": 2161,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50550,7 +50512,7 @@
           "assessments": null
         },
         {
-          "_row": 2165,
+          "_row": 2162,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50569,7 +50531,7 @@
           "assessments": null
         },
         {
-          "_row": 2166,
+          "_row": 2163,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50588,7 +50550,7 @@
           "assessments": null
         },
         {
-          "_row": 2167,
+          "_row": 2164,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50607,7 +50569,7 @@
           "assessments": null
         },
         {
-          "_row": 2168,
+          "_row": 2165,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50626,7 +50588,7 @@
           "assessments": null
         },
         {
-          "_row": 2169,
+          "_row": 2166,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50645,7 +50607,7 @@
           "assessments": null
         },
         {
-          "_row": 2170,
+          "_row": 2167,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50664,7 +50626,7 @@
           "assessments": null
         },
         {
-          "_row": 2171,
+          "_row": 2168,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50683,7 +50645,7 @@
           "assessments": null
         },
         {
-          "_row": 2172,
+          "_row": 2169,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50702,7 +50664,7 @@
           "assessments": null
         },
         {
-          "_row": 2173,
+          "_row": 2170,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50721,7 +50683,7 @@
           "assessments": null
         },
         {
-          "_row": 2174,
+          "_row": 2171,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50740,7 +50702,7 @@
           "assessments": null
         },
         {
-          "_row": 2175,
+          "_row": 2172,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50759,7 +50721,7 @@
           "assessments": null
         },
         {
-          "_row": 2176,
+          "_row": 2173,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50778,7 +50740,7 @@
           "assessments": null
         },
         {
-          "_row": 2177,
+          "_row": 2174,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50797,7 +50759,7 @@
           "assessments": null
         },
         {
-          "_row": 2178,
+          "_row": 2175,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50816,7 +50778,7 @@
           "assessments": null
         },
         {
-          "_row": 2179,
+          "_row": 2176,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50835,7 +50797,7 @@
           "assessments": null
         },
         {
-          "_row": 2180,
+          "_row": 2177,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50854,7 +50816,7 @@
           "assessments": null
         },
         {
-          "_row": 2181,
+          "_row": 2178,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50873,7 +50835,7 @@
           "assessments": null
         },
         {
-          "_row": 2182,
+          "_row": 2179,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50892,7 +50854,7 @@
           "assessments": null
         },
         {
-          "_row": 2183,
+          "_row": 2180,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50911,7 +50873,7 @@
           "assessments": null
         },
         {
-          "_row": 2184,
+          "_row": 2181,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50930,7 +50892,7 @@
           "assessments": null
         },
         {
-          "_row": 2185,
+          "_row": 2182,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50949,7 +50911,7 @@
           "assessments": null
         },
         {
-          "_row": 2186,
+          "_row": 2183,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50968,7 +50930,7 @@
           "assessments": null
         },
         {
-          "_row": 2187,
+          "_row": 2184,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -50987,7 +50949,7 @@
           "assessments": "Write and Revise Narratives + Language and Vocabulary Use"
         },
         {
-          "_row": 2188,
+          "_row": 2185,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51006,7 +50968,7 @@
           "assessments": null
         },
         {
-          "_row": 2189,
+          "_row": 2186,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51025,7 +50987,7 @@
           "assessments": null
         },
         {
-          "_row": 2190,
+          "_row": 2187,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51044,7 +51006,7 @@
           "assessments": null
         },
         {
-          "_row": 2191,
+          "_row": 2188,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51063,7 +51025,7 @@
           "assessments": null
         },
         {
-          "_row": 2192,
+          "_row": 2189,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51082,7 +51044,7 @@
           "assessments": null
         },
         {
-          "_row": 2193,
+          "_row": 2190,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51101,7 +51063,7 @@
           "assessments": null
         },
         {
-          "_row": 2194,
+          "_row": 2191,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51120,7 +51082,7 @@
           "assessments": null
         },
         {
-          "_row": 2195,
+          "_row": 2192,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51139,7 +51101,7 @@
           "assessments": null
         },
         {
-          "_row": 2196,
+          "_row": 2193,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51158,7 +51120,7 @@
           "assessments": null
         },
         {
-          "_row": 2197,
+          "_row": 2194,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51177,7 +51139,7 @@
           "assessments": null
         },
         {
-          "_row": 2198,
+          "_row": 2195,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51196,7 +51158,7 @@
           "assessments": null
         },
         {
-          "_row": 2199,
+          "_row": 2196,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51215,7 +51177,7 @@
           "assessments": null
         },
         {
-          "_row": 2200,
+          "_row": 2197,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51234,7 +51196,7 @@
           "assessments": null
         },
         {
-          "_row": 2201,
+          "_row": 2198,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51253,7 +51215,7 @@
           "assessments": null
         },
         {
-          "_row": 2202,
+          "_row": 2199,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51272,7 +51234,7 @@
           "assessments": null
         },
         {
-          "_row": 2203,
+          "_row": 2200,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51291,7 +51253,7 @@
           "assessments": null
         },
         {
-          "_row": 2204,
+          "_row": 2201,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51310,7 +51272,7 @@
           "assessments": null
         },
         {
-          "_row": 2205,
+          "_row": 2202,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51329,7 +51291,7 @@
           "assessments": null
         },
         {
-          "_row": 2206,
+          "_row": 2203,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51348,7 +51310,7 @@
           "assessments": null
         },
         {
-          "_row": 2207,
+          "_row": 2204,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51367,7 +51329,7 @@
           "assessments": null
         },
         {
-          "_row": 2208,
+          "_row": 2205,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51386,7 +51348,7 @@
           "assessments": null
         },
         {
-          "_row": 2209,
+          "_row": 2206,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51405,7 +51367,7 @@
           "assessments": null
         },
         {
-          "_row": 2210,
+          "_row": 2207,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51424,7 +51386,7 @@
           "assessments": null
         },
         {
-          "_row": 2211,
+          "_row": 2208,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51443,7 +51405,7 @@
           "assessments": null
         },
         {
-          "_row": 2212,
+          "_row": 2209,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51462,7 +51424,7 @@
           "assessments": null
         },
         {
-          "_row": 2213,
+          "_row": 2210,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51481,7 +51443,7 @@
           "assessments": null
         },
         {
-          "_row": 2214,
+          "_row": 2211,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51500,7 +51462,7 @@
           "assessments": null
         },
         {
-          "_row": 2215,
+          "_row": 2212,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51519,7 +51481,7 @@
           "assessments": null
         },
         {
-          "_row": 2216,
+          "_row": 2213,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51538,7 +51500,7 @@
           "assessments": null
         },
         {
-          "_row": 2217,
+          "_row": 2214,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51557,7 +51519,7 @@
           "assessments": null
         },
         {
-          "_row": 2218,
+          "_row": 2215,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51576,7 +51538,7 @@
           "assessments": null
         },
         {
-          "_row": 2219,
+          "_row": 2216,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51595,7 +51557,7 @@
           "assessments": null
         },
         {
-          "_row": 2220,
+          "_row": 2217,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51614,7 +51576,7 @@
           "assessments": null
         },
         {
-          "_row": 2221,
+          "_row": 2218,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51633,7 +51595,7 @@
           "assessments": null
         },
         {
-          "_row": 2222,
+          "_row": 2219,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51652,7 +51614,7 @@
           "assessments": null
         },
         {
-          "_row": 2223,
+          "_row": 2220,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51671,7 +51633,7 @@
           "assessments": null
         },
         {
-          "_row": 2224,
+          "_row": 2221,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51690,7 +51652,7 @@
           "assessments": null
         },
         {
-          "_row": 2225,
+          "_row": 2222,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51709,7 +51671,7 @@
           "assessments": null
         },
         {
-          "_row": 2226,
+          "_row": 2223,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51728,7 +51690,7 @@
           "assessments": null
         },
         {
-          "_row": 2227,
+          "_row": 2224,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51747,7 +51709,7 @@
           "assessments": null
         },
         {
-          "_row": 2228,
+          "_row": 2225,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51766,7 +51728,7 @@
           "assessments": null
         },
         {
-          "_row": 2229,
+          "_row": 2226,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51785,7 +51747,7 @@
           "assessments": "Make and Support Inferences (Informational) + Write and Revise Informational Texts"
         },
         {
-          "_row": 2230,
+          "_row": 2227,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51804,7 +51766,7 @@
           "assessments": null
         },
         {
-          "_row": 2231,
+          "_row": 2228,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51823,7 +51785,7 @@
           "assessments": null
         },
         {
-          "_row": 2232,
+          "_row": 2229,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51842,7 +51804,7 @@
           "assessments": null
         },
         {
-          "_row": 2233,
+          "_row": 2230,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51861,7 +51823,7 @@
           "assessments": null
         },
         {
-          "_row": 2234,
+          "_row": 2231,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51880,7 +51842,7 @@
           "assessments": null
         },
         {
-          "_row": 2235,
+          "_row": 2232,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51899,7 +51861,7 @@
           "assessments": null
         },
         {
-          "_row": 2236,
+          "_row": 2233,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51918,7 +51880,7 @@
           "assessments": null
         },
         {
-          "_row": 2237,
+          "_row": 2234,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51937,7 +51899,7 @@
           "assessments": null
         },
         {
-          "_row": 2238,
+          "_row": 2235,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51956,7 +51918,7 @@
           "assessments": null
         },
         {
-          "_row": 2239,
+          "_row": 2236,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51975,7 +51937,7 @@
           "assessments": null
         },
         {
-          "_row": 2240,
+          "_row": 2237,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -51994,7 +51956,7 @@
           "assessments": null
         },
         {
-          "_row": 2241,
+          "_row": 2238,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52013,7 +51975,7 @@
           "assessments": null
         },
         {
-          "_row": 2242,
+          "_row": 2239,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52032,7 +51994,7 @@
           "assessments": null
         },
         {
-          "_row": 2243,
+          "_row": 2240,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52051,7 +52013,7 @@
           "assessments": null
         },
         {
-          "_row": 2244,
+          "_row": 2241,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52070,7 +52032,7 @@
           "assessments": null
         },
         {
-          "_row": 2245,
+          "_row": 2242,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52089,7 +52051,7 @@
           "assessments": null
         },
         {
-          "_row": 2246,
+          "_row": 2243,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52108,7 +52070,7 @@
           "assessments": null
         },
         {
-          "_row": 2247,
+          "_row": 2244,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52127,7 +52089,7 @@
           "assessments": null
         },
         {
-          "_row": 2248,
+          "_row": 2245,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52146,7 +52108,7 @@
           "assessments": null
         },
         {
-          "_row": 2249,
+          "_row": 2246,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52165,7 +52127,7 @@
           "assessments": null
         },
         {
-          "_row": 2250,
+          "_row": 2247,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52184,7 +52146,7 @@
           "assessments": null
         },
         {
-          "_row": 2251,
+          "_row": 2248,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52203,7 +52165,7 @@
           "assessments": null
         },
         {
-          "_row": 2252,
+          "_row": 2249,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52222,7 +52184,7 @@
           "assessments": null
         },
         {
-          "_row": 2253,
+          "_row": 2250,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52241,7 +52203,7 @@
           "assessments": null
         },
         {
-          "_row": 2254,
+          "_row": 2251,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52260,7 +52222,7 @@
           "assessments": null
         },
         {
-          "_row": 2255,
+          "_row": 2252,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52279,7 +52241,7 @@
           "assessments": null
         },
         {
-          "_row": 2256,
+          "_row": 2253,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52298,7 +52260,7 @@
           "assessments": null
         },
         {
-          "_row": 2257,
+          "_row": 2254,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52317,7 +52279,7 @@
           "assessments": null
         },
         {
-          "_row": 2258,
+          "_row": 2255,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52336,7 +52298,7 @@
           "assessments": null
         },
         {
-          "_row": 2259,
+          "_row": 2256,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52355,7 +52317,7 @@
           "assessments": null
         },
         {
-          "_row": 2260,
+          "_row": 2257,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52374,7 +52336,7 @@
           "assessments": null
         },
         {
-          "_row": 2261,
+          "_row": 2258,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52393,7 +52355,7 @@
           "assessments": null
         },
         {
-          "_row": 2262,
+          "_row": 2259,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52412,7 +52374,7 @@
           "assessments": null
         },
         {
-          "_row": 2263,
+          "_row": 2260,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52431,7 +52393,7 @@
           "assessments": null
         },
         {
-          "_row": 2264,
+          "_row": 2261,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52450,7 +52412,7 @@
           "assessments": null
         },
         {
-          "_row": 2265,
+          "_row": 2262,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52469,7 +52431,7 @@
           "assessments": null
         },
         {
-          "_row": 2266,
+          "_row": 2263,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52488,7 +52450,7 @@
           "assessments": null
         },
         {
-          "_row": 2267,
+          "_row": 2264,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52507,7 +52469,7 @@
           "assessments": "Text Analysis (Literary) + Listen/Interpret"
         },
         {
-          "_row": 2268,
+          "_row": 2265,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52526,7 +52488,7 @@
           "assessments": null
         },
         {
-          "_row": 2269,
+          "_row": 2266,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52545,7 +52507,7 @@
           "assessments": null
         },
         {
-          "_row": 2270,
+          "_row": 2267,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52564,7 +52526,7 @@
           "assessments": null
         },
         {
-          "_row": 2271,
+          "_row": 2268,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52583,7 +52545,7 @@
           "assessments": null
         },
         {
-          "_row": 2272,
+          "_row": 2269,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52602,7 +52564,7 @@
           "assessments": null
         },
         {
-          "_row": 2273,
+          "_row": 2270,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52621,7 +52583,7 @@
           "assessments": null
         },
         {
-          "_row": 2274,
+          "_row": 2271,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52640,7 +52602,7 @@
           "assessments": null
         },
         {
-          "_row": 2275,
+          "_row": 2272,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52659,7 +52621,7 @@
           "assessments": null
         },
         {
-          "_row": 2276,
+          "_row": 2273,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52678,7 +52640,7 @@
           "assessments": null
         },
         {
-          "_row": 2277,
+          "_row": 2274,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52697,7 +52659,7 @@
           "assessments": null
         },
         {
-          "_row": 2278,
+          "_row": 2275,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52716,7 +52678,7 @@
           "assessments": null
         },
         {
-          "_row": 2279,
+          "_row": 2276,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52735,7 +52697,7 @@
           "assessments": null
         },
         {
-          "_row": 2280,
+          "_row": 2277,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52754,7 +52716,7 @@
           "assessments": null
         },
         {
-          "_row": 2281,
+          "_row": 2278,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52773,7 +52735,7 @@
           "assessments": null
         },
         {
-          "_row": 2282,
+          "_row": 2279,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52792,7 +52754,7 @@
           "assessments": null
         },
         {
-          "_row": 2283,
+          "_row": 2280,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52811,7 +52773,7 @@
           "assessments": null
         },
         {
-          "_row": 2284,
+          "_row": 2281,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52830,7 +52792,7 @@
           "assessments": null
         },
         {
-          "_row": 2285,
+          "_row": 2282,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52849,7 +52811,7 @@
           "assessments": null
         },
         {
-          "_row": 2286,
+          "_row": 2283,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52868,7 +52830,7 @@
           "assessments": null
         },
         {
-          "_row": 2287,
+          "_row": 2284,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52887,7 +52849,7 @@
           "assessments": null
         },
         {
-          "_row": 2288,
+          "_row": 2285,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52906,7 +52868,7 @@
           "assessments": null
         },
         {
-          "_row": 2289,
+          "_row": 2286,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52925,7 +52887,7 @@
           "assessments": null
         },
         {
-          "_row": 2290,
+          "_row": 2287,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52944,7 +52906,7 @@
           "assessments": null
         },
         {
-          "_row": 2291,
+          "_row": 2288,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52963,7 +52925,7 @@
           "assessments": null
         },
         {
-          "_row": 2292,
+          "_row": 2289,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -52982,7 +52944,7 @@
           "assessments": null
         },
         {
-          "_row": 2293,
+          "_row": 2290,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53001,7 +52963,7 @@
           "assessments": null
         },
         {
-          "_row": 2294,
+          "_row": 2291,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53020,7 +52982,7 @@
           "assessments": null
         },
         {
-          "_row": 2295,
+          "_row": 2292,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53039,7 +53001,7 @@
           "assessments": null
         },
         {
-          "_row": 2296,
+          "_row": 2293,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53058,7 +53020,7 @@
           "assessments": null
         },
         {
-          "_row": 2297,
+          "_row": 2294,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53077,7 +53039,7 @@
           "assessments": null
         },
         {
-          "_row": 2298,
+          "_row": 2295,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53096,7 +53058,7 @@
           "assessments": null
         },
         {
-          "_row": 2299,
+          "_row": 2296,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53115,7 +53077,7 @@
           "assessments": null
         },
         {
-          "_row": 2300,
+          "_row": 2297,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53134,7 +53096,7 @@
           "assessments": null
         },
         {
-          "_row": 2301,
+          "_row": 2298,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53153,7 +53115,7 @@
           "assessments": null
         },
         {
-          "_row": 2302,
+          "_row": 2299,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53172,7 +53134,7 @@
           "assessments": "Unit Assessment"
         },
         {
-          "_row": 2303,
+          "_row": 2300,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53191,7 +53153,7 @@
           "assessments": "Unit Assessment"
         },
         {
-          "_row": 2304,
+          "_row": 2301,
           "combined_grade_subject": "5: ELA Lesson",
           "grade_level": "5",
           "subject_area": "ELA Lesson",
@@ -53212,7 +53174,7 @@
       ],
       "SLA": [
         {
-          "_row": 2310,
+          "_row": 2307,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53231,7 +53193,7 @@
           "assessments": null
         },
         {
-          "_row": 2311,
+          "_row": 2308,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53250,7 +53212,7 @@
           "assessments": null
         },
         {
-          "_row": 2312,
+          "_row": 2309,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53269,7 +53231,7 @@
           "assessments": null
         },
         {
-          "_row": 2313,
+          "_row": 2310,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53288,7 +53250,7 @@
           "assessments": null
         },
         {
-          "_row": 2314,
+          "_row": 2311,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53307,7 +53269,7 @@
           "assessments": null
         },
         {
-          "_row": 2315,
+          "_row": 2312,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53326,7 +53288,7 @@
           "assessments": null
         },
         {
-          "_row": 2316,
+          "_row": 2313,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53345,7 +53307,7 @@
           "assessments": null
         },
         {
-          "_row": 2317,
+          "_row": 2314,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53364,7 +53326,7 @@
           "assessments": null
         },
         {
-          "_row": 2318,
+          "_row": 2315,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53383,7 +53345,7 @@
           "assessments": null
         },
         {
-          "_row": 2319,
+          "_row": 2316,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53402,7 +53364,7 @@
           "assessments": null
         },
         {
-          "_row": 2320,
+          "_row": 2317,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53421,7 +53383,7 @@
           "assessments": null
         },
         {
-          "_row": 2321,
+          "_row": 2318,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53440,7 +53402,7 @@
           "assessments": null
         },
         {
-          "_row": 2322,
+          "_row": 2319,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53459,7 +53421,7 @@
           "assessments": null
         },
         {
-          "_row": 2323,
+          "_row": 2320,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53478,7 +53440,7 @@
           "assessments": null
         },
         {
-          "_row": 2324,
+          "_row": 2321,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53497,7 +53459,7 @@
           "assessments": null
         },
         {
-          "_row": 2325,
+          "_row": 2322,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53516,7 +53478,7 @@
           "assessments": null
         },
         {
-          "_row": 2326,
+          "_row": 2323,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53535,7 +53497,7 @@
           "assessments": null
         },
         {
-          "_row": 2327,
+          "_row": 2324,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53554,7 +53516,7 @@
           "assessments": null
         },
         {
-          "_row": 2328,
+          "_row": 2325,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53573,7 +53535,7 @@
           "assessments": null
         },
         {
-          "_row": 2329,
+          "_row": 2326,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53592,7 +53554,7 @@
           "assessments": null
         },
         {
-          "_row": 2330,
+          "_row": 2327,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53611,7 +53573,7 @@
           "assessments": null
         },
         {
-          "_row": 2331,
+          "_row": 2328,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53630,7 +53592,7 @@
           "assessments": null
         },
         {
-          "_row": 2332,
+          "_row": 2329,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53649,7 +53611,7 @@
           "assessments": null
         },
         {
-          "_row": 2333,
+          "_row": 2330,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53668,7 +53630,7 @@
           "assessments": null
         },
         {
-          "_row": 2334,
+          "_row": 2331,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53687,7 +53649,7 @@
           "assessments": null
         },
         {
-          "_row": 2335,
+          "_row": 2332,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53706,7 +53668,7 @@
           "assessments": null
         },
         {
-          "_row": 2336,
+          "_row": 2333,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53725,7 +53687,7 @@
           "assessments": null
         },
         {
-          "_row": 2337,
+          "_row": 2334,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53744,7 +53706,7 @@
           "assessments": null
         },
         {
-          "_row": 2338,
+          "_row": 2335,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53763,7 +53725,7 @@
           "assessments": null
         },
         {
-          "_row": 2339,
+          "_row": 2336,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53782,7 +53744,7 @@
           "assessments": null
         },
         {
-          "_row": 2340,
+          "_row": 2337,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53801,7 +53763,7 @@
           "assessments": null
         },
         {
-          "_row": 2341,
+          "_row": 2338,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53820,7 +53782,7 @@
           "assessments": null
         },
         {
-          "_row": 2342,
+          "_row": 2339,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53839,7 +53801,7 @@
           "assessments": null
         },
         {
-          "_row": 2343,
+          "_row": 2340,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53858,7 +53820,7 @@
           "assessments": null
         },
         {
-          "_row": 2344,
+          "_row": 2341,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53877,7 +53839,7 @@
           "assessments": null
         },
         {
-          "_row": 2345,
+          "_row": 2342,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53896,7 +53858,7 @@
           "assessments": null
         },
         {
-          "_row": 2346,
+          "_row": 2343,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53915,7 +53877,7 @@
           "assessments": null
         },
         {
-          "_row": 2347,
+          "_row": 2344,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53934,7 +53896,7 @@
           "assessments": "Make and Support Inferences (Informational) + Write and Revise Informational Texts"
         },
         {
-          "_row": 2348,
+          "_row": 2345,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53953,7 +53915,7 @@
           "assessments": null
         },
         {
-          "_row": 2349,
+          "_row": 2346,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53972,7 +53934,7 @@
           "assessments": null
         },
         {
-          "_row": 2350,
+          "_row": 2347,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -53991,7 +53953,7 @@
           "assessments": null
         },
         {
-          "_row": 2351,
+          "_row": 2348,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54010,7 +53972,7 @@
           "assessments": null
         },
         {
-          "_row": 2352,
+          "_row": 2349,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54029,7 +53991,7 @@
           "assessments": null
         },
         {
-          "_row": 2353,
+          "_row": 2350,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54048,7 +54010,7 @@
           "assessments": null
         },
         {
-          "_row": 2354,
+          "_row": 2351,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54067,7 +54029,7 @@
           "assessments": null
         },
         {
-          "_row": 2355,
+          "_row": 2352,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54086,7 +54048,7 @@
           "assessments": null
         },
         {
-          "_row": 2356,
+          "_row": 2353,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54105,7 +54067,7 @@
           "assessments": null
         },
         {
-          "_row": 2357,
+          "_row": 2354,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54124,7 +54086,7 @@
           "assessments": null
         },
         {
-          "_row": 2358,
+          "_row": 2355,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54143,7 +54105,7 @@
           "assessments": null
         },
         {
-          "_row": 2359,
+          "_row": 2356,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54162,7 +54124,7 @@
           "assessments": null
         },
         {
-          "_row": 2360,
+          "_row": 2357,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54181,7 +54143,7 @@
           "assessments": null
         },
         {
-          "_row": 2361,
+          "_row": 2358,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54200,7 +54162,7 @@
           "assessments": null
         },
         {
-          "_row": 2362,
+          "_row": 2359,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54219,7 +54181,7 @@
           "assessments": null
         },
         {
-          "_row": 2363,
+          "_row": 2360,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54238,7 +54200,7 @@
           "assessments": null
         },
         {
-          "_row": 2364,
+          "_row": 2361,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54257,7 +54219,7 @@
           "assessments": null
         },
         {
-          "_row": 2365,
+          "_row": 2362,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54276,7 +54238,7 @@
           "assessments": null
         },
         {
-          "_row": 2366,
+          "_row": 2363,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54295,7 +54257,7 @@
           "assessments": null
         },
         {
-          "_row": 2367,
+          "_row": 2364,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54314,7 +54276,7 @@
           "assessments": null
         },
         {
-          "_row": 2368,
+          "_row": 2365,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54333,7 +54295,7 @@
           "assessments": null
         },
         {
-          "_row": 2369,
+          "_row": 2366,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54352,7 +54314,7 @@
           "assessments": null
         },
         {
-          "_row": 2370,
+          "_row": 2367,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54371,7 +54333,7 @@
           "assessments": null
         },
         {
-          "_row": 2371,
+          "_row": 2368,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54390,7 +54352,7 @@
           "assessments": null
         },
         {
-          "_row": 2372,
+          "_row": 2369,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54409,7 +54371,7 @@
           "assessments": null
         },
         {
-          "_row": 2373,
+          "_row": 2370,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54428,7 +54390,7 @@
           "assessments": null
         },
         {
-          "_row": 2374,
+          "_row": 2371,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54447,7 +54409,7 @@
           "assessments": null
         },
         {
-          "_row": 2375,
+          "_row": 2372,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54466,7 +54428,7 @@
           "assessments": null
         },
         {
-          "_row": 2376,
+          "_row": 2373,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54485,7 +54447,7 @@
           "assessments": null
         },
         {
-          "_row": 2377,
+          "_row": 2374,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54504,7 +54466,7 @@
           "assessments": null
         },
         {
-          "_row": 2378,
+          "_row": 2375,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54523,7 +54485,7 @@
           "assessments": null
         },
         {
-          "_row": 2379,
+          "_row": 2376,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54542,7 +54504,7 @@
           "assessments": "Word Meaning and Language Use (Literary) + Text Analysis (Literary)"
         },
         {
-          "_row": 2380,
+          "_row": 2377,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54561,7 +54523,7 @@
           "assessments": null
         },
         {
-          "_row": 2381,
+          "_row": 2378,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54580,7 +54542,7 @@
           "assessments": null
         },
         {
-          "_row": 2382,
+          "_row": 2379,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54599,7 +54561,7 @@
           "assessments": null
         },
         {
-          "_row": 2383,
+          "_row": 2380,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54618,7 +54580,7 @@
           "assessments": null
         },
         {
-          "_row": 2384,
+          "_row": 2381,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54637,7 +54599,7 @@
           "assessments": null
         },
         {
-          "_row": 2385,
+          "_row": 2382,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54656,7 +54618,7 @@
           "assessments": null
         },
         {
-          "_row": 2386,
+          "_row": 2383,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54675,7 +54637,7 @@
           "assessments": null
         },
         {
-          "_row": 2387,
+          "_row": 2384,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54694,7 +54656,7 @@
           "assessments": null
         },
         {
-          "_row": 2388,
+          "_row": 2385,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54713,7 +54675,7 @@
           "assessments": null
         },
         {
-          "_row": 2389,
+          "_row": 2386,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54732,7 +54694,7 @@
           "assessments": null
         },
         {
-          "_row": 2390,
+          "_row": 2387,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54751,7 +54713,7 @@
           "assessments": null
         },
         {
-          "_row": 2391,
+          "_row": 2388,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54770,7 +54732,7 @@
           "assessments": null
         },
         {
-          "_row": 2392,
+          "_row": 2389,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54789,7 +54751,7 @@
           "assessments": null
         },
         {
-          "_row": 2393,
+          "_row": 2390,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54808,7 +54770,7 @@
           "assessments": null
         },
         {
-          "_row": 2394,
+          "_row": 2391,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54827,7 +54789,7 @@
           "assessments": null
         },
         {
-          "_row": 2395,
+          "_row": 2392,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54846,7 +54808,7 @@
           "assessments": null
         },
         {
-          "_row": 2396,
+          "_row": 2393,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54865,7 +54827,7 @@
           "assessments": null
         },
         {
-          "_row": 2397,
+          "_row": 2394,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54884,7 +54846,7 @@
           "assessments": null
         },
         {
-          "_row": 2398,
+          "_row": 2395,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54903,7 +54865,7 @@
           "assessments": null
         },
         {
-          "_row": 2399,
+          "_row": 2396,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54922,7 +54884,7 @@
           "assessments": null
         },
         {
-          "_row": 2400,
+          "_row": 2397,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54941,7 +54903,7 @@
           "assessments": null
         },
         {
-          "_row": 2401,
+          "_row": 2398,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54960,7 +54922,7 @@
           "assessments": null
         },
         {
-          "_row": 2402,
+          "_row": 2399,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54979,7 +54941,7 @@
           "assessments": null
         },
         {
-          "_row": 2403,
+          "_row": 2400,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -54998,7 +54960,7 @@
           "assessments": null
         },
         {
-          "_row": 2404,
+          "_row": 2401,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55017,7 +54979,7 @@
           "assessments": null
         },
         {
-          "_row": 2405,
+          "_row": 2402,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55036,7 +54998,7 @@
           "assessments": null
         },
         {
-          "_row": 2406,
+          "_row": 2403,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55055,7 +55017,7 @@
           "assessments": null
         },
         {
-          "_row": 2407,
+          "_row": 2404,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55074,7 +55036,7 @@
           "assessments": null
         },
         {
-          "_row": 2408,
+          "_row": 2405,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55093,7 +55055,7 @@
           "assessments": null
         },
         {
-          "_row": 2409,
+          "_row": 2406,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55112,7 +55074,7 @@
           "assessments": null
         },
         {
-          "_row": 2410,
+          "_row": 2407,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55131,7 +55093,7 @@
           "assessments": null
         },
         {
-          "_row": 2411,
+          "_row": 2408,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55150,7 +55112,7 @@
           "assessments": null
         },
         {
-          "_row": 2412,
+          "_row": 2409,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55169,7 +55131,7 @@
           "assessments": null
         },
         {
-          "_row": 2413,
+          "_row": 2410,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55188,7 +55150,7 @@
           "assessments": null
         },
         {
-          "_row": 2414,
+          "_row": 2411,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55207,7 +55169,7 @@
           "assessments": null
         },
         {
-          "_row": 2415,
+          "_row": 2412,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55226,7 +55188,7 @@
           "assessments": "Text Analysis (Literary) + Write and Revise Opinion Texts"
         },
         {
-          "_row": 2416,
+          "_row": 2413,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55245,7 +55207,7 @@
           "assessments": null
         },
         {
-          "_row": 2417,
+          "_row": 2414,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55264,7 +55226,7 @@
           "assessments": null
         },
         {
-          "_row": 2418,
+          "_row": 2415,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55283,7 +55245,7 @@
           "assessments": null
         },
         {
-          "_row": 2419,
+          "_row": 2416,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55302,7 +55264,7 @@
           "assessments": null
         },
         {
-          "_row": 2420,
+          "_row": 2417,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55321,7 +55283,7 @@
           "assessments": null
         },
         {
-          "_row": 2421,
+          "_row": 2418,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55340,7 +55302,7 @@
           "assessments": null
         },
         {
-          "_row": 2422,
+          "_row": 2419,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55359,7 +55321,7 @@
           "assessments": null
         },
         {
-          "_row": 2423,
+          "_row": 2420,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55378,7 +55340,7 @@
           "assessments": null
         },
         {
-          "_row": 2424,
+          "_row": 2421,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55397,7 +55359,7 @@
           "assessments": null
         },
         {
-          "_row": 2425,
+          "_row": 2422,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55416,7 +55378,7 @@
           "assessments": null
         },
         {
-          "_row": 2426,
+          "_row": 2423,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55435,7 +55397,7 @@
           "assessments": null
         },
         {
-          "_row": 2427,
+          "_row": 2424,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55454,7 +55416,7 @@
           "assessments": null
         },
         {
-          "_row": 2428,
+          "_row": 2425,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55473,7 +55435,7 @@
           "assessments": null
         },
         {
-          "_row": 2429,
+          "_row": 2426,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55492,7 +55454,7 @@
           "assessments": null
         },
         {
-          "_row": 2430,
+          "_row": 2427,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55511,7 +55473,7 @@
           "assessments": null
         },
         {
-          "_row": 2431,
+          "_row": 2428,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55530,7 +55492,7 @@
           "assessments": null
         },
         {
-          "_row": 2432,
+          "_row": 2429,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55549,7 +55511,7 @@
           "assessments": null
         },
         {
-          "_row": 2433,
+          "_row": 2430,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55568,7 +55530,7 @@
           "assessments": null
         },
         {
-          "_row": 2434,
+          "_row": 2431,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55587,7 +55549,7 @@
           "assessments": null
         },
         {
-          "_row": 2435,
+          "_row": 2432,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55606,7 +55568,7 @@
           "assessments": null
         },
         {
-          "_row": 2436,
+          "_row": 2433,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55625,7 +55587,7 @@
           "assessments": null
         },
         {
-          "_row": 2437,
+          "_row": 2434,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55644,7 +55606,7 @@
           "assessments": null
         },
         {
-          "_row": 2438,
+          "_row": 2435,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55663,7 +55625,7 @@
           "assessments": null
         },
         {
-          "_row": 2439,
+          "_row": 2436,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55682,7 +55644,7 @@
           "assessments": null
         },
         {
-          "_row": 2440,
+          "_row": 2437,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55701,7 +55663,7 @@
           "assessments": "Make and Support Inferences (Informational) + Write and Revise Informational Texts"
         },
         {
-          "_row": 2441,
+          "_row": 2438,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55720,7 +55682,7 @@
           "assessments": null
         },
         {
-          "_row": 2442,
+          "_row": 2439,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55739,7 +55701,7 @@
           "assessments": null
         },
         {
-          "_row": 2443,
+          "_row": 2440,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55758,7 +55720,7 @@
           "assessments": null
         },
         {
-          "_row": 2444,
+          "_row": 2441,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55777,7 +55739,7 @@
           "assessments": null
         },
         {
-          "_row": 2445,
+          "_row": 2442,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55796,7 +55758,7 @@
           "assessments": null
         },
         {
-          "_row": 2446,
+          "_row": 2443,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55815,7 +55777,7 @@
           "assessments": null
         },
         {
-          "_row": 2447,
+          "_row": 2444,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55834,7 +55796,7 @@
           "assessments": null
         },
         {
-          "_row": 2448,
+          "_row": 2445,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55853,7 +55815,7 @@
           "assessments": null
         },
         {
-          "_row": 2449,
+          "_row": 2446,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55872,7 +55834,7 @@
           "assessments": null
         },
         {
-          "_row": 2450,
+          "_row": 2447,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55891,7 +55853,7 @@
           "assessments": null
         },
         {
-          "_row": 2451,
+          "_row": 2448,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55910,7 +55872,7 @@
           "assessments": null
         },
         {
-          "_row": 2452,
+          "_row": 2449,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55929,7 +55891,7 @@
           "assessments": null
         },
         {
-          "_row": 2453,
+          "_row": 2450,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55948,7 +55910,7 @@
           "assessments": null
         },
         {
-          "_row": 2454,
+          "_row": 2451,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55967,7 +55929,7 @@
           "assessments": null
         },
         {
-          "_row": 2455,
+          "_row": 2452,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -55986,7 +55948,7 @@
           "assessments": null
         },
         {
-          "_row": 2456,
+          "_row": 2453,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56005,7 +55967,7 @@
           "assessments": null
         },
         {
-          "_row": 2457,
+          "_row": 2454,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56024,7 +55986,7 @@
           "assessments": null
         },
         {
-          "_row": 2458,
+          "_row": 2455,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56043,7 +56005,7 @@
           "assessments": null
         },
         {
-          "_row": 2459,
+          "_row": 2456,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56062,7 +56024,7 @@
           "assessments": null
         },
         {
-          "_row": 2460,
+          "_row": 2457,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56081,7 +56043,7 @@
           "assessments": null
         },
         {
-          "_row": 2461,
+          "_row": 2458,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56100,7 +56062,7 @@
           "assessments": null
         },
         {
-          "_row": 2462,
+          "_row": 2459,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56119,7 +56081,7 @@
           "assessments": null
         },
         {
-          "_row": 2463,
+          "_row": 2460,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56138,7 +56100,7 @@
           "assessments": null
         },
         {
-          "_row": 2464,
+          "_row": 2461,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56157,7 +56119,7 @@
           "assessments": null
         },
         {
-          "_row": 2465,
+          "_row": 2462,
           "combined_grade_subject": "5: SLA Lesson",
           "grade_level": "5",
           "subject_area": "SLA Lesson",
@@ -56586,31 +56548,12 @@
         "curriculum": "Eureka Math",
         "section_number": "1",
         "topic": "Module 1: Place Value and Decimal Fractions",
-        "lesson_number": "A2",
-        "lesson_objective": "ASSESSMENT BLOCK: Place Value & Decimals FIAB",
+        "lesson_number": "Review",
+        "lesson_objective": "Catch-Up / Reteach / Review Day 3 (Decimal Multiplication & Division Algorithms)",
         "language_objective": null,
         "resources": null,
         "start_date": "2026-09-15T00:00:00",
         "end_date": "2026-09-15T00:00:00",
-        "focus_mastery_standards": null,
-        "spiral_standards": null,
-        "assessments": null
-      },
-      {
-        "_row": 2129,
-        "combined_grade_subject": "5: Assessment",
-        "grade_level": "5",
-        "subject_area": "Assessment",
-        "language_of_instruction": "English",
-        "curriculum": "Eureka Math",
-        "section_number": "1",
-        "topic": "Module 1: Place Value and Decimal Fractions",
-        "lesson_number": "A3",
-        "lesson_objective": "Module 1 End-of-Module Assessment Task",
-        "language_objective": null,
-        "resources": null,
-        "start_date": "2026-09-22T00:00:00",
-        "end_date": "2026-09-22T00:00:00",
         "focus_mastery_standards": null,
         "spiral_standards": null,
         "assessments": null
@@ -58582,7 +58525,7 @@
       ],
       "Science": [
         {
-          "_row": 2466,
+          "_row": 2463,
           "combined_grade_subject": "6: Science",
           "grade_level": "6",
           "subject_area": "Science",
@@ -58596,12 +58539,12 @@
           "resources": null,
           "start_date": null,
           "end_date": null,
-          "focus_mastery_standards": null,
+          "focus_mastery_standards": "MS-LS1-1, MS-LS1-2, MS-LS1-3, MS-ETS1-1, MS-ETS1-2, MS-ETS1-3, MS-ETS1-4",
           "spiral_standards": null,
           "assessments": null
         },
         {
-          "_row": 2467,
+          "_row": 2464,
           "combined_grade_subject": "6: Science",
           "grade_level": "6",
           "subject_area": "Science",
@@ -58615,12 +58558,12 @@
           "resources": null,
           "start_date": null,
           "end_date": null,
-          "focus_mastery_standards": null,
+          "focus_mastery_standards": "PS-MS-ESS1-1, PS-MS-ESS1-2, PS-MS-ESS1-3, MS-ESS1-A-2, MS-ESS1-B-1, MS-ESS1-B-3",
           "spiral_standards": null,
           "assessments": null
         },
         {
-          "_row": 2468,
+          "_row": 2465,
           "combined_grade_subject": "6: Science",
           "grade_level": "6",
           "subject_area": "Science",
@@ -58634,12 +58577,12 @@
           "resources": null,
           "start_date": null,
           "end_date": null,
-          "focus_mastery_standards": null,
+          "focus_mastery_standards": "MS-ESS2-4, EP&C-P3A",
           "spiral_standards": null,
           "assessments": null
         },
         {
-          "_row": 2469,
+          "_row": 2466,
           "combined_grade_subject": "6: Science",
           "grade_level": "6",
           "subject_area": "Science",
@@ -58653,12 +58596,12 @@
           "resources": null,
           "start_date": null,
           "end_date": null,
-          "focus_mastery_standards": null,
+          "focus_mastery_standards": "MS-ESS2-4, MS-ESS2-5, MS-ESS2-6, EP&C-P3A, EP&C-P3B, EP&C-P3C",
           "spiral_standards": null,
           "assessments": null
         },
         {
-          "_row": 2470,
+          "_row": 2467,
           "combined_grade_subject": "6: Science",
           "grade_level": "6",
           "subject_area": "Science",
@@ -58672,12 +58615,12 @@
           "resources": null,
           "start_date": null,
           "end_date": null,
-          "focus_mastery_standards": null,
+          "focus_mastery_standards": "PS-MS-ESS2-1, PS-MS-ESS2-6, PS-MS-ETS1-2,MS-ESS1-B-2, MS-ESS2-A-2, MS-ESS2-C-4, MS-ESS2-D-1, MS-ESS2-D-3",
           "spiral_standards": null,
           "assessments": null
         },
         {
-          "_row": 2471,
+          "_row": 2468,
           "combined_grade_subject": "6: Science",
           "grade_level": "6",
           "subject_area": "Science",
@@ -58691,12 +58634,12 @@
           "resources": null,
           "start_date": null,
           "end_date": null,
-          "focus_mastery_standards": null,
+          "focus_mastery_standards": "PS-MS-ESS2-6, PS-MS-ESS3-5, PS-MS-ETS1-1,PS-MS-ETS1-2, MS-ESS2-A-1, MS-ESS2-A-2, MS-ESS2-C-4, MS-ESS2-D-1, MS-ESS2-D-3, MS-ESS3-C-1, MS-ESS3-D-1, MS-ETS1-A-1",
           "spiral_standards": null,
           "assessments": null
         },
         {
-          "_row": 2472,
+          "_row": 2469,
           "combined_grade_subject": "6: Science",
           "grade_level": "6",
           "subject_area": "Science",
@@ -58710,12 +58653,12 @@
           "resources": null,
           "start_date": null,
           "end_date": null,
-          "focus_mastery_standards": null,
+          "focus_mastery_standards": "MS-ESS2-1, MS-ETS1-1, MS-ESS1-C-2, MS-ESS2-B-1, EP&C-P2C",
           "spiral_standards": null,
           "assessments": null
         },
         {
-          "_row": 2473,
+          "_row": 2470,
           "combined_grade_subject": "6: Science",
           "grade_level": "6",
           "subject_area": "Science",
@@ -58729,12 +58672,12 @@
           "resources": null,
           "start_date": null,
           "end_date": null,
-          "focus_mastery_standards": null,
+          "focus_mastery_standards": "MS-ESS2-6, MS-ESS3-3, MS-ESS3-5, EP&C-P2C",
           "spiral_standards": null,
           "assessments": null
         },
         {
-          "_row": 2474,
+          "_row": 2471,
           "combined_grade_subject": "6: Science",
           "grade_level": "6",
           "subject_area": "Science",
@@ -58748,14 +58691,14 @@
           "resources": null,
           "start_date": null,
           "end_date": null,
-          "focus_mastery_standards": null,
+          "focus_mastery_standards": "MS-LS1-4, MS-LS1-5, MS-LS3-2, EP&C-P2C, EP&C-P4B",
           "spiral_standards": null,
           "assessments": null
         }
       ],
       "SLA": [
         {
-          "_row": 2475,
+          "_row": 2472,
           "combined_grade_subject": "6: SLA",
           "grade_level": "6",
           "subject_area": "SLA",
@@ -58765,16 +58708,16 @@
           "topic": "Modulo 1: ¿Cómo influyen nuestra cultura, valores y tradiciones en quiénes somos como comunidad?",
           "lesson_number": null,
           "lesson_objective": null,
-          "language_objective": "6° grado VMS SLA Scope & Sequence",
-          "resources": "8/17/2026",
-          "start_date": "2026-09-18T00:00:00",
-          "end_date": null,
-          "focus_mastery_standards": null,
+          "language_objective": null,
+          "resources": "6° grado VMS SLA Scope & Sequence",
+          "start_date": "2026-08-17T00:00:00",
+          "end_date": "2026-09-18T00:00:00",
+          "focus_mastery_standards": "LI. 6.1, 6.2, 6.3.\nE. 6.2, 6.2a-f.\nAE. 6.1, 6.1a-d.\nL. 6.1, 6.1a-e, 6.2, 6.2a-b.",
           "spiral_standards": null,
           "assessments": null
         },
         {
-          "_row": 2476,
+          "_row": 2473,
           "combined_grade_subject": "6: SLA",
           "grade_level": "6",
           "subject_area": "SLA",
@@ -58793,7 +58736,7 @@
           "assessments": null
         },
         {
-          "_row": 2477,
+          "_row": 2474,
           "combined_grade_subject": "6: SLA",
           "grade_level": "6",
           "subject_area": "SLA",
@@ -58812,7 +58755,7 @@
           "assessments": null
         },
         {
-          "_row": 2478,
+          "_row": 2475,
           "combined_grade_subject": "6: SLA",
           "grade_level": "6",
           "subject_area": "SLA",
@@ -58831,7 +58774,7 @@
           "assessments": null
         },
         {
-          "_row": 2479,
+          "_row": 2476,
           "combined_grade_subject": "6: SLA",
           "grade_level": "6",
           "subject_area": "SLA",
@@ -58850,7 +58793,7 @@
           "assessments": null
         },
         {
-          "_row": 2480,
+          "_row": 2477,
           "combined_grade_subject": "6: SLA",
           "grade_level": "6",
           "subject_area": "SLA",
@@ -58871,14 +58814,14 @@
       ],
       "Math": [
         {
-          "_row": 2481,
+          "_row": 2478,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
           "language_of_instruction": null,
           "curriculum": "Eureka Math Squared",
           "section_number": "1",
-          "topic": "Module 1: Ratios and Rates",
+          "topic": "Module 1: Ratios, Rates, and Percents",
           "lesson_number": null,
           "lesson_objective": null,
           "language_objective": null,
@@ -58890,7 +58833,7 @@
           "assessments": null
         },
         {
-          "_row": 2482,
+          "_row": 2510,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -58909,7 +58852,7 @@
           "assessments": null
         },
         {
-          "_row": 2483,
+          "_row": 2511,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -58928,7 +58871,7 @@
           "assessments": null
         },
         {
-          "_row": 2484,
+          "_row": 2512,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -58947,7 +58890,7 @@
           "assessments": null
         },
         {
-          "_row": 2485,
+          "_row": 2513,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -58966,7 +58909,7 @@
           "assessments": null
         },
         {
-          "_row": 2486,
+          "_row": 2514,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -58985,7 +58928,7 @@
           "assessments": null
         },
         {
-          "_row": 2487,
+          "_row": 2515,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -59004,7 +58947,7 @@
           "assessments": null
         },
         {
-          "_row": 2488,
+          "_row": 2516,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -59023,7 +58966,7 @@
           "assessments": null
         },
         {
-          "_row": 2489,
+          "_row": 2517,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -59042,7 +58985,7 @@
           "assessments": null
         },
         {
-          "_row": 2490,
+          "_row": 2518,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -59061,7 +59004,7 @@
           "assessments": null
         },
         {
-          "_row": 2491,
+          "_row": 2519,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -59080,7 +59023,7 @@
           "assessments": null
         },
         {
-          "_row": 2492,
+          "_row": 2520,
           "combined_grade_subject": "6: Math",
           "grade_level": "6",
           "subject_area": "Math",
@@ -59101,7 +59044,7 @@
       ],
       "Social Studies": [
         {
-          "_row": 2493,
+          "_row": 2521,
           "combined_grade_subject": "6: Social Studies",
           "grade_level": "6",
           "subject_area": "Social Studies",
@@ -59112,7 +59055,8 @@
           "lesson_number": null,
           "lesson_objective": "Students will learn about maps, mapmakers and\ngeographic terms. Students will learn about the\nContinental Drift Theory of Alfred Wegener and the\nevidence he used to develop his theory. They will\nalso discuss some of the historic and modern manmade wonders on our planet.",
           "language_objective": null,
-          "resources": null,
+          "resources": "6th_Week1_LP.pdf",
+          "resources_url": "https://drive.google.com/file/d/1O3X3VMv7t0Qe2NcRLqFhcCW-L2yNKlSg/view?usp=drive_link",
           "start_date": "2026-08-17T00:00:00",
           "end_date": "2026-08-21T00:00:00",
           "focus_mastery_standards": "6.1 Students describe what is known through archaeological studies of the early physical and cultural development of humankind from the Paleolithic era to the agricultural revolution.",
@@ -59121,7 +59065,701 @@
         }
       ]
     },
-    "lessons_by_subject": {},
+    "lessons_by_subject": {
+      "Math": [
+        {
+          "_row": 2479,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic A: Ratios",
+          "lesson_number": "L1",
+          "lesson_objective": "Use multiplicative reasoning to estimate the solution to a real-world problem.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-17T00:00:00",
+          "end_date": "2026-08-17T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2480,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic A: Ratios",
+          "lesson_number": "L2",
+          "lesson_objective": "Write ratios that relate two quantities as an ordered pair of numbers; use ratio language to compare two quantities.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-18T00:00:00",
+          "end_date": "2026-08-18T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2481,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic A: Ratios",
+          "lesson_number": "L3",
+          "lesson_objective": "Write multiple ratios to describe the same situation; represent ratios with tape diagrams.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-19T00:00:00",
+          "end_date": "2026-08-19T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2482,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic A: Ratios",
+          "lesson_number": "L4",
+          "lesson_objective": "Create ratios by making batches of different quantities; use tape diagrams to determine unknown quantities in ratios.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-20T00:00:00",
+          "end_date": "2026-08-20T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2483,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic A: Ratios",
+          "lesson_number": "L5",
+          "lesson_objective": "Find equivalent ratios by multiplying both numbers in a given ratio by the same nonzero number; use equivalent ratios to find unknown quantities.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-21T00:00:00",
+          "end_date": "2026-08-21T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2484,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic B: Collections of Equivalent Ratios",
+          "lesson_number": "L6",
+          "lesson_objective": "Represent equivalent ratios by using ratio tables and double number lines; use representations of ratio relationships to solve problems.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-24T00:00:00",
+          "end_date": "2026-08-24T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2485,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic B: Collections of Equivalent Ratios",
+          "lesson_number": "L7",
+          "lesson_objective": "Plot points in the coordinate plane that each represent a ratio; identify characteristics of graphs, tables, and double number lines representing ratio relationships.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-25T00:00:00",
+          "end_date": "2026-08-25T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2486,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic B: Collections of Equivalent Ratios",
+          "lesson_number": "L8",
+          "lesson_objective": "Use addition patterns in tables and graphs of equivalent ratios to describe ratio relationships and find unknown quantities.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-26T00:00:00",
+          "end_date": "2026-08-26T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2487,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic B: Collections of Equivalent Ratios",
+          "lesson_number": "L9",
+          "lesson_objective": "Use graphs and tables to explore multiplication patterns in ratio relationships; use multiplication to complete ratio tables.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-27T00:00:00",
+          "end_date": "2026-08-27T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2488,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic B: Collections of Equivalent Ratios",
+          "lesson_number": "L10",
+          "lesson_objective": "Write and use equivalent ratios when one of the numbers in the ratio is 1.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-28T00:00:00",
+          "end_date": "2026-08-28T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2489,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic B: Collections of Equivalent Ratios",
+          "lesson_number": "L11",
+          "lesson_objective": "Solve multi-step ratio problems by reasoning about equivalent ratios.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-08-31T00:00:00",
+          "end_date": "2026-08-31T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2490,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic C: Comparing Ratio Relationships",
+          "lesson_number": "L12",
+          "lesson_objective": "Compare ratio relationships by using graphs, tables, and double number lines.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-01T00:00:00",
+          "end_date": "2026-09-01T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2491,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic C: Comparing Ratio Relationships",
+          "lesson_number": "L13",
+          "lesson_objective": "Compare ratio relationships by using ratio tables.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-02T00:00:00",
+          "end_date": "2026-09-02T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2492,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic C: Comparing Ratio Relationships",
+          "lesson_number": "L14",
+          "lesson_objective": "Compare ratio relationships by creating equivalent ratios.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-03T00:00:00",
+          "end_date": "2026-09-03T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2493,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic C: Comparing Ratio Relationships",
+          "lesson_number": "L15",
+          "lesson_objective": "Compare ratio relationships by using the value of the ratio.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-04T00:00:00",
+          "end_date": "2026-09-04T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2494,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic D: Rates",
+          "lesson_number": "L16",
+          "lesson_objective": "Find distance and time corresponding to a given speed; identify real-world examples of rates and interpret their meanings in context.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-09T00:00:00",
+          "end_date": "2026-09-09T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2495,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic D: Rates",
+          "lesson_number": "L17",
+          "lesson_objective": "Identify rates and unit rates; calculate one quantity when given another quantity and a constant rate.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-10T00:00:00",
+          "end_date": "2026-09-10T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2496,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic D: Rates",
+          "lesson_number": "A1",
+          "lesson_objective": "Focused IAB - Ratios and Proportional Relationships (Claim 1, Target A)",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-11T00:00:00",
+          "end_date": "2026-09-11T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2497,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic D: Rates",
+          "lesson_number": "L18",
+          "lesson_objective": "Compare rates with like units of measurement by using unit rate.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-14T00:00:00",
+          "end_date": "2026-09-14T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2498,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic D: Rates",
+          "lesson_number": "L19",
+          "lesson_objective": "Convert units of measurement by applying rate reasoning.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-15T00:00:00",
+          "end_date": "2026-09-15T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2499,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic D: Rates",
+          "lesson_number": "L20",
+          "lesson_objective": "Apply rate reasoning to solve real-world ratio problems involving speed, unit pricing, and unit conversions; find an unknown quantity when given a rate and a known quantity.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-16T00:00:00",
+          "end_date": "2026-09-16T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2500,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic D: Rates",
+          "lesson_number": "L21",
+          "lesson_objective": "Solve problems involving multiple constant rates.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-17T00:00:00",
+          "end_date": "2026-09-17T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2501,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic E: Percents",
+          "lesson_number": "L22",
+          "lesson_objective": "Relate percents to a part-to-whole relationship where the whole is 100; model percents and write percents in fraction and decimal forms.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-18T00:00:00",
+          "end_date": "2026-09-18T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2502,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic E: Percents",
+          "lesson_number": "L23",
+          "lesson_objective": "Calculate a percent when given a part and the whole; discover that if multiple parts make a whole, then the percents representing the parts should total 100%.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-22T00:00:00",
+          "end_date": "2026-09-22T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2503,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic E: Percents",
+          "lesson_number": "L24",
+          "lesson_objective": "Calculate a part when given the whole and a percent.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-23T00:00:00",
+          "end_date": "2026-09-23T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2504,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic E: Percents",
+          "lesson_number": "L25",
+          "lesson_objective": "Calculate the whole when given a part and a percent.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-24T00:00:00",
+          "end_date": "2026-09-24T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2505,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Topic E: Percents",
+          "lesson_number": "L26",
+          "lesson_objective": "Solve multi-step percent problems.",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-25T00:00:00",
+          "end_date": "2026-09-25T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2506,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Module 1: Ratios, Rates, and Percents",
+          "lesson_number": null,
+          "lesson_objective": "Reteach Day 1",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-28T00:00:00",
+          "end_date": "2026-09-28T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2507,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Module 1: Ratios, Rates, and Percents",
+          "lesson_number": null,
+          "lesson_objective": "Reteach Day 2",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-29T00:00:00",
+          "end_date": "2026-09-29T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2508,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Module 1: Ratios, Rates, and Percents",
+          "lesson_number": null,
+          "lesson_objective": "Reteach Day 3",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-09-30T00:00:00",
+          "end_date": "2026-09-30T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2509,
+          "combined_grade_subject": "6: Math Lesson",
+          "grade_level": "6",
+          "subject_area": "Math Lesson",
+          "language_of_instruction": null,
+          "curriculum": "Eureka Math Squared",
+          "section_number": "1",
+          "topic": "Module 1: Ratios, Rates, and Percents",
+          "lesson_number": "A2",
+          "lesson_objective": "Module 1 End-of-Module Assessment",
+          "language_objective": null,
+          "resources": null,
+          "start_date": "2026-10-01T00:00:00",
+          "end_date": "2026-10-01T00:00:00",
+          "focus_mastery_standards": null,
+          "spiral_standards": null,
+          "assessments": null
+        }
+      ],
+      "Social Studies": [
+        {
+          "_row": 2522,
+          "combined_grade_subject": "6: Social Studies Lesson",
+          "grade_level": "6",
+          "subject_area": "Social Studies Lesson",
+          "language_of_instruction": "English",
+          "curriculum": "Studies Weekly – World History & Geography",
+          "section_number": "1",
+          "topic": "Our Home & \"All Sorts of People\" (Page 1)",
+          "lesson_number": "Day 1",
+          "lesson_objective": "Students will learn about some of the earth's landforms and their different locations around the world.",
+          "language_objective": null,
+          "resources": "6th_Week1_LP.pdf",
+          "resources_url": "https://drive.google.com/file/d/1O3X3VMv7t0Qe2NcRLqFhcCW-L2yNKlSg/view?usp=drive_link",
+          "start_date": "2026-08-17T00:00:00",
+          "end_date": "2026-08-17T00:00:00",
+          "focus_mastery_standards": "N/A",
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2523,
+          "combined_grade_subject": "6: Social Studies Lesson",
+          "grade_level": "6",
+          "subject_area": "Social Studies Lesson",
+          "language_of_instruction": "English",
+          "curriculum": "Studies Weekly – World History & Geography",
+          "section_number": "1",
+          "topic": "Planet Earth (Pages 2–3)",
+          "lesson_number": "Day 2",
+          "lesson_objective": "Students will cite evidence to support Alfred Wegener's Continental Drift Theory.",
+          "language_objective": null,
+          "resources": "6th_Week1_LP.pdf",
+          "resources_url": "https://drive.google.com/file/d/1O3X3VMv7t0Qe2NcRLqFhcCW-L2yNKlSg/view?usp=drive_link",
+          "start_date": "2026-08-18T00:00:00",
+          "end_date": "2026-08-18T00:00:00",
+          "focus_mastery_standards": "6.1",
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2524,
+          "combined_grade_subject": "6: Social Studies Lesson",
+          "grade_level": "6",
+          "subject_area": "Social Studies Lesson",
+          "language_of_instruction": "English",
+          "curriculum": "Studies Weekly – World History & Geography",
+          "section_number": "1",
+          "topic": "Atlas, \"Which is better—a map or a globe?\" & \"The First New Map of the World\"",
+          "lesson_number": "Day 3",
+          "lesson_objective": "Students will understand how the advancement of technology contributed to developing a more accurate map of the world.",
+          "language_objective": null,
+          "resources": "6th_Week1_LP.pdf",
+          "resources_url": "https://drive.google.com/file/d/1O3X3VMv7t0Qe2NcRLqFhcCW-L2yNKlSg/view?usp=drive_link",
+          "start_date": "2026-08-19T00:00:00",
+          "end_date": "2026-08-19T00:00:00",
+          "focus_mastery_standards": "N/A",
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2525,
+          "combined_grade_subject": "6: Social Studies Lesson",
+          "grade_level": "6",
+          "subject_area": "Social Studies Lesson",
+          "language_of_instruction": "English",
+          "curriculum": "Studies Weekly – World History & Geography",
+          "section_number": "1",
+          "topic": "Cartography (Page 3), \"Mapping and Charting: Latitude and Longitude\" & Crossword (Page 4)",
+          "lesson_number": "Day 4",
+          "lesson_objective": "Students will form an opinion about the difficulties that cartographers faced in ancient times.",
+          "language_objective": null,
+          "resources": "6th_Week1_LP.pdf",
+          "resources_url": "https://drive.google.com/file/d/1O3X3VMv7t0Qe2NcRLqFhcCW-L2yNKlSg/view?usp=drive_link",
+          "start_date": "2026-08-20T00:00:00",
+          "end_date": "2026-08-20T00:00:00",
+          "focus_mastery_standards": "N/A",
+          "spiral_standards": null,
+          "assessments": null
+        },
+        {
+          "_row": 2526,
+          "combined_grade_subject": "6: Social Studies Lesson",
+          "grade_level": "6",
+          "subject_area": "Social Studies Lesson",
+          "language_of_instruction": "English",
+          "curriculum": "Studies Weekly – World History & Geography",
+          "section_number": "1",
+          "topic": "Let's Write & \"Think and Review\"",
+          "lesson_number": "Day 5",
+          "lesson_objective": "Students respond to the writing-literacy prompts (opinion, informative/explanatory, narrative) and review the week's learning.",
+          "language_objective": null,
+          "resources": "6th_Week1_LP.pdf",
+          "resources_url": "https://drive.google.com/file/d/1O3X3VMv7t0Qe2NcRLqFhcCW-L2yNKlSg/view?usp=drive_link",
+          "start_date": "2026-08-21T00:00:00",
+          "end_date": "2026-08-21T00:00:00",
+          "focus_mastery_standards": "6.1",
+          "spiral_standards": null,
+          "assessments": null
+        }
+      ]
+    },
     "assessments": [
       {
         "_row": 65,
@@ -61280,7 +61918,7 @@
       ],
       "Science": [
         {
-          "_row": 2494,
+          "_row": 2527,
           "combined_grade_subject": "7: Science",
           "grade_level": "7",
           "subject_area": "Science",
@@ -61299,7 +61937,7 @@
           "assessments": null
         },
         {
-          "_row": 2495,
+          "_row": 2528,
           "combined_grade_subject": "7: Science",
           "grade_level": "7",
           "subject_area": "Science",
@@ -61318,7 +61956,7 @@
           "assessments": null
         },
         {
-          "_row": 2496,
+          "_row": 2529,
           "combined_grade_subject": "7: Science",
           "grade_level": "7",
           "subject_area": "Science",
@@ -61337,7 +61975,7 @@
           "assessments": null
         },
         {
-          "_row": 2497,
+          "_row": 2530,
           "combined_grade_subject": "7: Science",
           "grade_level": "7",
           "subject_area": "Science",
@@ -61356,7 +61994,7 @@
           "assessments": null
         },
         {
-          "_row": 2498,
+          "_row": 2531,
           "combined_grade_subject": "7: Science",
           "grade_level": "7",
           "subject_area": "Science",
@@ -61375,7 +62013,7 @@
           "assessments": null
         },
         {
-          "_row": 2499,
+          "_row": 2532,
           "combined_grade_subject": "7: Science",
           "grade_level": "7",
           "subject_area": "Science",
@@ -61394,7 +62032,7 @@
           "assessments": null
         },
         {
-          "_row": 2500,
+          "_row": 2533,
           "combined_grade_subject": "7: Science",
           "grade_level": "7",
           "subject_area": "Science",
@@ -61413,7 +62051,7 @@
           "assessments": null
         },
         {
-          "_row": 2501,
+          "_row": 2534,
           "combined_grade_subject": "7: Science",
           "grade_level": "7",
           "subject_area": "Science",
@@ -61432,7 +62070,7 @@
           "assessments": null
         },
         {
-          "_row": 2502,
+          "_row": 2535,
           "combined_grade_subject": "7: Science",
           "grade_level": "7",
           "subject_area": "Science",
@@ -61453,14 +62091,14 @@
       ],
       "Math": [
         {
-          "_row": 2503,
+          "_row": 2536,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "Eureka Math Squared",
           "section_number": "1",
-          "topic": "Module 1: Proportional Relationships",
+          "topic": "Module 1: Ratios and Proportional Relationships",
           "lesson_number": null,
           "lesson_objective": null,
           "language_objective": null,
@@ -61472,11 +62110,11 @@
           "assessments": null
         },
         {
-          "_row": 2504,
+          "_row": 2537,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "Eureka Math Squared",
           "section_number": "2",
           "topic": "Module 2: Operations with Rational Numbers",
@@ -61491,11 +62129,11 @@
           "assessments": null
         },
         {
-          "_row": 2505,
+          "_row": 2538,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "Eureka Math Squared",
           "section_number": "3",
           "topic": "Module 3: Expressions, Equations, and Inequalities",
@@ -61510,11 +62148,11 @@
           "assessments": null
         },
         {
-          "_row": 2506,
+          "_row": 2539,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "Eureka Math Squared",
           "section_number": "4",
           "topic": "Module 4: Percent and Proportional Relationships",
@@ -61529,11 +62167,11 @@
           "assessments": null
         },
         {
-          "_row": 2507,
+          "_row": 2540,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "Eureka Math Squared",
           "section_number": "5",
           "topic": "Module 5: Statistics and Probability",
@@ -61548,11 +62186,11 @@
           "assessments": null
         },
         {
-          "_row": 2508,
+          "_row": 2541,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "Eureka Math Squared",
           "section_number": "6",
           "topic": "Module 6: Geometry",
@@ -61567,11 +62205,11 @@
           "assessments": null
         },
         {
-          "_row": 2509,
+          "_row": 2542,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "enVision Mathematics",
           "section_number": "1",
           "topic": "Topic 2: Analyze and Use Proportional Relationships",
@@ -61586,11 +62224,11 @@
           "assessments": null
         },
         {
-          "_row": 2510,
+          "_row": 2543,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "enVision Mathematics",
           "section_number": "2",
           "topic": "Topic 1: Rational Number Operations",
@@ -61605,11 +62243,11 @@
           "assessments": null
         },
         {
-          "_row": 2511,
+          "_row": 2544,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "enVision Mathematics",
           "section_number": "3",
           "topic": "Topic 4: Generate Equivalent Expressions\nTopic 5: Solve Problems Using Equations and Inequalities",
@@ -61624,11 +62262,11 @@
           "assessments": null
         },
         {
-          "_row": 2512,
+          "_row": 2545,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "enVision Mathematics",
           "section_number": "4",
           "topic": "Topic 3: Analyze and Solve Percent Problems",
@@ -61643,11 +62281,11 @@
           "assessments": null
         },
         {
-          "_row": 2513,
+          "_row": 2546,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "enVision Mathematics",
           "section_number": "5",
           "topic": "Topic 7: Probability\nTopic 8: Solve Problems Involving Geometry & Sampling",
@@ -61662,11 +62300,11 @@
           "assessments": null
         },
         {
-          "_row": 2514,
+          "_row": 2547,
           "combined_grade_subject": "7: Math",
           "grade_level": "7",
           "subject_area": "Math",
-          "language_of_instruction": null,
+          "language_of_instruction": "English",
           "curriculum": "enVision Mathematics",
           "section_number": "6",
           "topic": "Topic 6: Use Geometry to Solve Problems (Scale, Angles, Area, Volume)",
@@ -63841,7 +64479,7 @@
       ],
       "Science": [
         {
-          "_row": 2515,
+          "_row": 2548,
           "combined_grade_subject": "8: Science",
           "grade_level": "8",
           "subject_area": "Science",
@@ -63860,7 +64498,7 @@
           "assessments": null
         },
         {
-          "_row": 2516,
+          "_row": 2549,
           "combined_grade_subject": "8: Science",
           "grade_level": "8",
           "subject_area": "Science",
@@ -63879,7 +64517,7 @@
           "assessments": null
         },
         {
-          "_row": 2517,
+          "_row": 2550,
           "combined_grade_subject": "8: Science",
           "grade_level": "8",
           "subject_area": "Science",
@@ -63898,7 +64536,7 @@
           "assessments": null
         },
         {
-          "_row": 2518,
+          "_row": 2551,
           "combined_grade_subject": "8: Science",
           "grade_level": "8",
           "subject_area": "Science",
@@ -63917,7 +64555,7 @@
           "assessments": null
         },
         {
-          "_row": 2519,
+          "_row": 2552,
           "combined_grade_subject": "8: Science",
           "grade_level": "8",
           "subject_area": "Science",
@@ -63936,7 +64574,7 @@
           "assessments": null
         },
         {
-          "_row": 2520,
+          "_row": 2553,
           "combined_grade_subject": "8: Science",
           "grade_level": "8",
           "subject_area": "Science",
@@ -63955,7 +64593,7 @@
           "assessments": null
         },
         {
-          "_row": 2521,
+          "_row": 2554,
           "combined_grade_subject": "8: Science",
           "grade_level": "8",
           "subject_area": "Science",
@@ -63974,7 +64612,7 @@
           "assessments": null
         },
         {
-          "_row": 2522,
+          "_row": 2555,
           "combined_grade_subject": "8: Science",
           "grade_level": "8",
           "subject_area": "Science",
@@ -63993,7 +64631,7 @@
           "assessments": null
         },
         {
-          "_row": 2523,
+          "_row": 2556,
           "combined_grade_subject": "8: Science",
           "grade_level": "8",
           "subject_area": "Science",
@@ -64014,26 +64652,7 @@
       ],
       "Math": [
         {
-          "_row": 2524,
-          "combined_grade_subject": "8: Math",
-          "grade_level": "8",
-          "subject_area": "Math",
-          "language_of_instruction": null,
-          "curriculum": "Eureka Math Squared",
-          "section_number": "1",
-          "topic": "Module 1: Rigid Transformations and Congruence",
-          "lesson_number": null,
-          "lesson_objective": null,
-          "language_objective": null,
-          "resources": null,
-          "start_date": null,
-          "end_date": null,
-          "focus_mastery_standards": null,
-          "spiral_standards": null,
-          "assessments": null
-        },
-        {
-          "_row": 2525,
+          "_row": 2557,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64052,7 +64671,7 @@
           "assessments": null
         },
         {
-          "_row": 2526,
+          "_row": 2558,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64071,7 +64690,7 @@
           "assessments": null
         },
         {
-          "_row": 2527,
+          "_row": 2559,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64090,7 +64709,7 @@
           "assessments": null
         },
         {
-          "_row": 2528,
+          "_row": 2560,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64109,7 +64728,7 @@
           "assessments": null
         },
         {
-          "_row": 2529,
+          "_row": 2561,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64128,7 +64747,7 @@
           "assessments": null
         },
         {
-          "_row": 2530,
+          "_row": 2562,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64147,7 +64766,7 @@
           "assessments": null
         },
         {
-          "_row": 2531,
+          "_row": 2563,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64166,7 +64785,7 @@
           "assessments": null
         },
         {
-          "_row": 2532,
+          "_row": 2564,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64185,7 +64804,7 @@
           "assessments": null
         },
         {
-          "_row": 2533,
+          "_row": 2565,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64204,7 +64823,7 @@
           "assessments": null
         },
         {
-          "_row": 2534,
+          "_row": 2566,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
@@ -64223,7 +64842,7 @@
           "assessments": null
         },
         {
-          "_row": 2535,
+          "_row": 2567,
           "combined_grade_subject": "8: Math",
           "grade_level": "8",
           "subject_area": "Math",
