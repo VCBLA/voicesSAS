@@ -460,6 +460,7 @@ function openLessonModal(lesson, subj) {
         ${resourceLinkHtml(lesson)}
       </div>
     </div>`;
+  if (window.SASOverlays) SASOverlays.renderInto(body, lesson, subj);
   $("#unit-modal").classList.remove("hidden");
 }
 

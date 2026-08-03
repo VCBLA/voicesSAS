@@ -310,3 +310,12 @@ footer { text-align: center; font-size: 11px; color: var(--ink-soft); padding: 2
   display: block;
   border: 0;
 }
+
+/* --- Pilot / under-construction banner + pilot tool links --- */
+.pilot-banner {
+  background: repeating-linear-gradient(45deg,#fff4e5,#fff4e5 12px,#ffe9c7 12px,#ffe9c7 24px);
+  color: #8a5a00; font-weight: 600; font-size: 13px; text-align: center;
+  padding: 8px 12px; border-bottom: 1px solid #e6c98a;
+}
+.pilot-tools { border-top: 1px dashed #d8c7ef; margin-top: 8px; padding-top: 10px; align-items: center; }
+.pilot-tag { font-size: 12px; font-weight: 700; color: #6A1FB0; text-transform: uppercase; letter-spacing: .03em; margin-right: 4px; }
