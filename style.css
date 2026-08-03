@@ -319,3 +319,6 @@ footer { text-align: center; font-size: 11px; color: var(--ink-soft); padding: 2
 }
 .pilot-tools { border-top: 1px dashed #d8c7ef; margin-top: 8px; padding-top: 10px; align-items: center; }
 .pilot-tag { font-size: 12px; font-weight: 700; color: #6A1FB0; text-transform: uppercase; letter-spacing: .03em; margin-right: 4px; }
+
+.btn-bell { display:inline-flex; align-items:center; gap:6px; background:#F2B705; color:#3a2c00; font-weight:700; border-radius:8px; padding:8px 14px; text-decoration:none; font-size:14px; }
+.btn-bell:hover { background:#e0a900; }
