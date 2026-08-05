@@ -1071,7 +1071,7 @@ async function downloadWeekDoc() {
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
   a.href = url;
-  a.download = `Grade3-Week${weekIndex}-Internalization.docx`;
+  a.download = `${selectedGrades.length ? selectedGrades.join("-") : "AllGrades"}-Week${weekIndex}-Internalization.docx`;
   document.body.appendChild(a);
   a.click();
   a.remove();
