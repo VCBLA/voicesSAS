@@ -166,6 +166,18 @@ def row_dict(ws, r, ncols=16):
         if COLUMNS[c] == "resources" and cell.hyperlink is not None:
             d["resources_url"] = cell.hyperlink.target
     fix_resources_slot_date_shift(d, ws, r, shift)
+    # Normalize any text-string M/D/YYYY dates (e.g. the Studies Weekly
+    # Social Studies rows, whose start/end dates were typed as text rather
+    # than real Excel date cells) to the ISO shape the portal's toDate()
+    # expects. Without this, "8/17/2026" reaches the browser as-is and
+    # becomes the invalid JS Date "8/17/2026T00:00:00", silently dropping
+    # every such lesson/section off the Timeline, Weekly, and Calendar
+    # views. Real Excel date cells are already ISO (cell_to_value's
+    # .isoformat()) and parse_date_to_iso leaves those untouched.
+    for _dk in ("start_date", "end_date"):
+        _iso = parse_date_to_iso(d.get(_dk))
+        if _iso:
+            d[_dk] = _iso
     return d
 
 
