@@ -780,9 +780,9 @@ function renderGantt() {
 
 function renderUnitsGanttRow(subj, buckets) {
   const sections = sectionsFor(subj).filter((s) => s.start_date);
-  const label = `${escapeHtml(subj)} <span style="opacity:.6;font-weight:400;font-size:11px">· Units</span>`;
+  const label = `${escapeHtml(subj)} <span style="opacity:.6;font-weight:400;font-size:11px">· ${subj === "Social Studies" ? "Week Focus" : "Units"}</span>`;
   return renderSpanRow(label, languageColorDeep(subj), sections, buckets, (s, startIdx, endIdx, lane) => {
-    const unitLabel = s.section_number ? `Unit ${s.section_number}` : "";
+    const unitLabel = s.section_number ? `${subj === "Social Studies" ? "Week Focus" : "Unit"} ${s.section_number}` : "";
     return `<div class="lesson-chip unit-chip span-chip" style="grid-column:${startIdx + 1} / ${endIdx + 2}; grid-row:${lane + 1}; background:transparent;border:1.5px solid ${languageColorDeep(subj)};color:${languageColorDeep(subj)};font-weight:600"
       data-section="${escapeHtml(s.section_number || s._row)}" data-subj="${escapeHtml(subj)}"
       title="${escapeHtml(unitLabel)} ${escapeHtml(s.topic || "")}">${escapeHtml(unitLabel)} ${escapeHtml(s.topic || "")}</div>`;
