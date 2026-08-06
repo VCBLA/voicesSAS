@@ -56,6 +56,8 @@ const state = {
   filters: { grades: new Set(), subjects: new Set(), curricula: new Set() },
   allGrades: [],
   allSubjects: [],
+  dropdownSubjects: [],
+  tkOnlySubjects: new Set(),
   allCurricula: [],
   languageBySubject: {},
   calendar: { zoom: "month", trimesterIdx: 0, monthIdx: 0, weekIdx: null, day: null },
@@ -191,14 +193,29 @@ function computeFilterOptions() {
     });
   });
 
+  // TK's PTLKF developmental "subjects" (Approaches to Learning, Physical
+  // Development, etc.) are unique to TK and shouldn't clutter the
+  // network-wide Subject dropdown. Build the dropdown from subjects that
+  // appear in any non-TK grade; TK-only subjects stay renderable (see
+  // isSubjectVisible) but are hidden from the filter.
+  const nonTkSubjects = new Set();
+  grades.forEach((g) => {
+    if (g === "TK") return;
+    const dg = state.dataByGrade[g];
+    Object.keys(dg.sections_by_subject).forEach((s) => nonTkSubjects.add(s));
+    Object.keys(dg.lessons_by_subject).forEach((s) => nonTkSubjects.add(s));
+  });
+
   state.allGrades = grades;
   state.allSubjects = [...subjects].sort();
+  state.dropdownSubjects = state.allSubjects.filter((s) => nonTkSubjects.has(s));
+  state.tkOnlySubjects = new Set(state.allSubjects.filter((s) => !nonTkSubjects.has(s)));
   state.allCurricula = [...curricula].sort();
   // Default to no grade selected; the user picks a grade from the Grade
   // Level filter. Starting empty avoids overlaying a grade's units on the
   // Timeline before the user has made a choice.
   state.filters.grades = new Set();
-  state.filters.subjects = new Set(state.allSubjects);
+  state.filters.subjects = new Set(state.dropdownSubjects);
   state.filters.curricula = new Set(state.allCurricula);
 
   state.languageBySubject = {};
@@ -219,7 +236,7 @@ function languageColorDeep(subj) { return languageInfo(subj).deep; }
 
 function buildFilters() {
   buildMultiSelect("#filter-grade", "Grade Level", state.allGrades, state.filters.grades);
-  buildMultiSelect("#filter-subject", "Subject", state.allSubjects, state.filters.subjects);
+  buildMultiSelect("#filter-subject", "Subject", state.dropdownSubjects, state.filters.subjects);
   buildMultiSelect("#filter-curriculum", "Curriculum", state.allCurricula, state.filters.curricula);
 }
 
@@ -354,6 +371,10 @@ function renderAll() {
 }
 
 function isSubjectVisible(subj) {
+  // TK-only PTLKF areas are hidden from the Subject dropdown, so they're
+  // not in filters.subjects; treat them as always visible (they only
+  // actually render where they have data, i.e. when TK is selected).
+  if (state.tkOnlySubjects && state.tkOnlySubjects.has(subj)) return true;
   return state.filters.subjects.has(subj);
 }
 
