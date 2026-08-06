@@ -218,12 +218,18 @@ function computeFilterOptions() {
   state.filters.subjects = new Set(state.dropdownSubjects);
   state.filters.curricula = new Set(state.allCurricula);
 
-  state.languageBySubject = {};
+  // Global (all-grades) language of instruction per subject — used only as
+  // a fallback. Live colors are recomputed per selected grade in
+  // recomputeLanguageColors(), so a subject taught in different languages by
+  // grade (e.g. Values Block: English in 3rd-5th, Spanish elsewhere) is
+  // colored to match the grade actually on screen.
+  state.globalLanguageBySubject = {};
   state.allSubjects.forEach((subj) => {
     const counts = langCounts[subj] || {};
     const top = Object.entries(counts).sort((a, b) => b[1] - a[1])[0];
-    state.languageBySubject[subj] = top ? top[0] : "Unknown";
+    state.globalLanguageBySubject[subj] = top ? top[0] : "Unknown";
   });
+  state.languageBySubject = { ...state.globalLanguageBySubject };
 }
 
 function languageInfo(subj) {
@@ -231,6 +237,33 @@ function languageInfo(subj) {
 }
 function languageColor(subj) { return languageInfo(subj).bg; }
 function languageColorDeep(subj) { return languageInfo(subj).deep; }
+
+// Recompute each subject's color from the language of instruction actually
+// used in the currently-selected grade(s). Subjects with no rows in the
+// selection (or when no grade is chosen) fall back to the global majority.
+function recomputeLanguageColors() {
+  const d = currentGradeData();
+  const counts = {};
+  [d.lessons_by_subject, d.sections_by_subject].forEach((coll) => {
+    Object.entries(coll).forEach(([subj, arr]) => {
+      arr.forEach((row) => {
+        if (!row.language_of_instruction) return;
+        (counts[subj] ??= {})[row.language_of_instruction] =
+          (counts[subj][row.language_of_instruction] || 0) + 1;
+      });
+    });
+  });
+  state.languageBySubject = {};
+  state.allSubjects.forEach((subj) => {
+    const c = counts[subj];
+    if (c) {
+      const top = Object.entries(c).sort((a, b) => b[1] - a[1])[0];
+      state.languageBySubject[subj] = top ? top[0] : (state.globalLanguageBySubject[subj] || "Unknown");
+    } else {
+      state.languageBySubject[subj] = state.globalLanguageBySubject[subj] || "Unknown";
+    }
+  });
+}
 
 // ---------- filters (multi-select dropdowns) ----------
 
@@ -364,6 +397,7 @@ function buildLegend() {
 // ---------- shared render entry point ----------
 
 function renderAll() {
+  recomputeLanguageColors();
   renderKeyDatesList();
   renderAssessmentsList();
   renderCalendar();
